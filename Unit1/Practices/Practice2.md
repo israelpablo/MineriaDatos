@@ -1,5 +1,5 @@
 
-## Pracice #2  Functions
+## Practice #2  Functions
 
 
 20 more functions in R and make an example of it
