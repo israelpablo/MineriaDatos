@@ -6,7 +6,7 @@
 <h3 align="center"> Subdirección académica departamento de sistemas y computación.</h3>
 
 
-<h4 align="center"> Gestión de proyecto de software.</h4>
+<h4 align="center"> Mineria de datos.</h4>
 
 
 <h4 align="center"> JOSE CHRISTIAN ROMERO HERNANDEZ.</h4>
