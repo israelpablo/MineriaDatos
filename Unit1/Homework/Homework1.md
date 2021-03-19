@@ -32,16 +32,16 @@ Christian Romero Hernandez
 </div>
 
 
-##1. What is data mining and what is it for?
+## 1. What is data mining and what is it for?
 Data mining (knowledge discovery from data) 
 to develop essential processes where a series of intelligent methods are applied to extract and discover patterns from the data, through the use of algorithm
 
-##2. Where is data mining used?
+## 2. Where is data mining used?
 Clean up the noise and repetition data.
 Extract relevant information and use it to evaluate possible results.
 Make better business decisions faster.
 
-##3. Applications of data mining?
+## 3. Applications of data mining?
 • Commerce and banking: segregation of
 customers, sales forecast, analysis of
 risk.
