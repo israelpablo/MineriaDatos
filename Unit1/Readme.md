@@ -25,6 +25,12 @@
 
 <h1 align="center"> Indice </h1>
 
-###  [practice #1](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/practice1.md)
-###  [practice #2](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/Practice2.md)
+## Practices
 
+###  [Practice #1](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/practice1.md)
+
+###  [Practice #2](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/Practice2.md)
+
+## Research
+
+###  [Research #1 Pair Coding](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Research/research1.md)
