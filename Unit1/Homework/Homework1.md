@@ -26,6 +26,8 @@ I
 
 Reyes Armenta Gerardo Antonio 17211147
 Israel Lopez Pablo 17210585
+
+
 **MAESTRO**\
 Christian Romero Hernandez
 
