@@ -19,6 +19,7 @@
 
 
 <h4 align="center"> Lopez Pablo Israel 17210585</h4>
+<h4 align="center"> Reyes Armenta Gerardo Antonio 17211147</h4>
 
 
 
