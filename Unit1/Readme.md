@@ -31,6 +31,8 @@
 
 ###  [Practice #2](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/Practice2.md)
 
+###  [Practice #3](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Practices/practice3.md)
+
 ## Research
 
 ###  [Research #1 Pair Coding](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Research/research1.md)
