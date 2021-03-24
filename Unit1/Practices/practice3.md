@@ -29,3 +29,59 @@ Round To 2 Decimal Points, Then Multiply By 100 To Get %
 profit.margin <- round( profit.after.tax/revenue , 2) * 100
 profit.margin
 ```
+
+Calculate The Mean Profit After Tax For The 12 Months
+``` r
+mean_pat <- mean(profit.after.tax)
+mean_pat
+``` 
+Find The Months With Above-Mean Profit After Tax
+``` r
+good.months <- profit.after.tax [profit.after.tax> mean_pat]
+good.months
+``` 
+Bad Months Are The Opposite Of Good Months !
+``` r
+bad.months <- profit.after.tax[profit.after.tax!=good.months]
+bad.months
+``` 
+The Best Month Is Where Profit After Tax Was Equal To The Maximum
+``` r
+best.month <-profit.after.tax[ profit.after.tax == max(profit.after.tax)]
+best.month
+``` 
+The Worst Month Is Where Profit After Tax Was Equal To The Minimum
+``` r
+worst.month <-profit.after.tax[ profit.after.tax == min(profit.after.tax)]
+worst.month
+``` 
+
+Convert All Calculations To Units Of One Thousand Dollars
+``` r
+revenue.1000 <- round(revenue / 1000, 0)
+expenses.1000 <- round(expenses/1000,0)
+profit.1000 <- round(profit/1000, 0)
+profit.after.tax.1000 <- round(profit.after.tax/1000 , 0)
+``` 
+Print Results
+``` r
+revenue.1000
+expenses.1000
+profit.1000
+profit.after.tax.1000
+profit.margin
+good.months
+bad.months
+best.month
+worst.month
+``` 
+BONUS:
+Preview Of What's Coming In The Next Section
+``` r
+M <- rbind(  revenue.1000,  expenses.1000,  profit.1000,  profit.after.tax.1000,  profit.margin,good.months,  bad.months,  best.month,  worst.month)
+``` 
+Print The Matrix
+``` r
+M
+``` 
+  
