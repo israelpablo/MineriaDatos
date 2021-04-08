@@ -64,3 +64,11 @@ merged2$Country.Code.y <- NULL
 str(merged2)
 tail(merged2)
 merged2
+
+
+#Visualizing With new Split Year 1960
+filter(merged2,Year=='1960')
+qplot(data = filter(merged2,Year=='1960'), x = Fertility.Rate, y = X1960,
+      color =Region.x, size=I(3), shape=I(19), alpha =I(.4), 
+      main = "Life expectancy year 1960")
+
