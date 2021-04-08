@@ -31,3 +31,24 @@ head(EdadPromedio, n=10)
 tail(EdadPromedio, n=8)
 str(EdadPromedio)
 summary(EdadPromedio)
+
+# is necessary install the next packages  install.packages("ggplot2") and install.packages("dplyr")
+# after that is necessary add the library installed
+
+library(ggplot2)
+library(dplyr)
+
+#Marging Data Frames
+
+head(stats)
+head(DataFrame)
+merged <- merge(stats, DataFrame, by.x = "Country.Code", by.y = "Code")
+head(merged)
+
+merged$Country <- NULL
+str(merged)
+tail(merged)
+merged$Region.y <- NULL
+str(merged)
+tail(merged)
+merged
