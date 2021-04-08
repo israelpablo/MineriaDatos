@@ -15,3 +15,19 @@ DataFrame
 stats
 head(stats)
 
+
+# we are need other frame with the data of Life expectancy for year,
+#that information we got on the next url: https://datos.bancomundial.org/indicator/SP.DYN.LE00.IN
+# This frame have woman and man information
+# add the frame to the document R (Promediodevidageneral.csv).
+EdadPromedio<- read.csv(file.choose())
+#Exploring the data EdadPromedio
+
+EdadPromedio
+is.data.frame(EdadPromedio)
+nrow(EdadPromedio)
+ncol(EdadPromedio)
+head(EdadPromedio, n=10)
+tail(EdadPromedio, n=8)
+str(EdadPromedio)
+summary(EdadPromedio)
