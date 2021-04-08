@@ -52,3 +52,15 @@ merged$Region.y <- NULL
 str(merged)
 tail(merged)
 merged
+
+# Marging Data Frames
+#for the information merge is necessary check which column on both frame 
+#for this we are select the country.name on both frame
+
+merged2 <- merge(merged, EdadPromedio, by.x = "Country.Name", by.y = "Country.Name")
+head(merged2)
+
+merged2$Country.Code.y <- NULL
+str(merged2)
+tail(merged2)
+merged2
