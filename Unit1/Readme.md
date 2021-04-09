@@ -39,3 +39,6 @@
 
 ## Homework
 ###  [Homework #1 ](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Homework/Homework1.md)
+
+## Evaluation
+###  [Evaliation.md](https://github.com/israelpablo/MineriaDatos/blob/Unit1/Unit1/Evaluation/evaluation.md)
