@@ -48,10 +48,10 @@ head(DataFrame)
 merged <- merge(stats, DataFrame, by.x = "Country.Code", by.y = "Codes.2012")
 head(merged)
 
-merged$Country <- NULL
+merged$Country.Name <- NULL
 str(merged)
 tail(merged)
-merged$Region.y <- NULL
+merged$Region <- NULL
 str(merged)
 tail(merged)
 merged
@@ -60,7 +60,7 @@ merged
 #for the information merge is necessary check which column on both frame 
 #for this we are select the country.name on both frame
 
-merged2 <- merge(merged, EdadPromedio, by.x = "Country.Name", by.y = "Country.Name")
+merged2 <- merge(merged, EdadPromedio, by.x = "Countries.2012", by.y = "Country.Name")
 head(merged2)
 
 merged2$Country.Code.y <- NULL
@@ -70,14 +70,14 @@ merged2
 
 
 #Visualizing With new Split Year 1960
-filter(merged2, "Year" == 1960)
+filter(merged2, Year == '1960')
 qplot(data = filter(merged2,Year=='1960'), x = Fertility.Rate, y = X1960,
-      color = Region, size=I(3), shape=I(19), alpha =I(.4), 
+      color = Regions.2012, size=I(3), shape=I(20), alpha =I(.8), 
       main = "Life expectancy year 1960")
 
 #Visualizing With new Split Year 2013
-filter(merged2, "Year" == 2013)
+filter(merged2, Year == '2013')
 qplot(data = filter(merged2,Year=='2013'), x = Fertility.Rate, y = X2013,
-      color = Region, size=I(3), shape=I(19), alpha =I(.4), 
+      color = Regions.2012, size=I(3), shape=I(20), alpha =I(.8), 
       main = "Life expectancy year 2013")
 
