@@ -83,6 +83,6 @@ qplot(data = filter(merged,Year=='2013'), x = Fertility.Rate, y = Life_Expectanc
       color = Region, size=I(3), shape=I(20), alpha =I(.8), 
       main = "Life expectancy year 2013")
 ```
-![Life expectancy year 1960](/home/gerardo/Mineria/MineriaDatos/Unit1/Evaluation/Rplot1960.png)
+![Life expectancy year 1960](Rplot1960.png "Life Expectancy 1960")
 
-![Life expectancy year 2013](/home/gerardo/Mineria/MineriaDatos/Unit1/Evaluation/Rplot2013.png)
+![Life expectancy year 2013](Rplot2013.png "Life Expectancy 2013")
