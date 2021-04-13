@@ -41,7 +41,7 @@ qplot(data = filter(merged,Year=='1960'), x = Fertility.Rate, y = Life_Expectanc
       color = Region, size=I(3), shape=I(19), alpha =I(.4), 
       main = "Life expectancy year 1960")
 
-#Visualizing With new Split Year 2013
+in#Visualizing With new Split Year 2013
 filter(merged2, Year == '2013')
 qplot(data = filter(merged,Year=='2013'), x = Fertility.Rate, y = Life_Expectancy_2013,
       color = Region, size=I(3), shape=I(20), alpha =I(.8), 
