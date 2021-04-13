@@ -31,7 +31,7 @@ head(DataLifeExp)
 merged <- merge(stats, Life_Expectancy, by.x = "Country.Code", by.y = "Country_Code")
 
 merged
-
+#------Pot both Grafics-----------------------
 #Visualizing With new Split Year 1960 
 filter(merged, Year == '1960')
 qplot(data = filter(merged,Year=='1960'), x = Fertility.Rate, y = Life_Expectancy_1960,
