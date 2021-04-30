@@ -29,7 +29,7 @@
 
 
 ## Research
-###  [Research #2 Distribucion](https://github.com/israelpablo/MineriaDatos/blob/Unit2/Unit2/Research/research2.md)
+###  [Research #2 Distribucion](https://github.com/israelpablo/MineriaDatos/tree/Unit2/Unit2/Research/research2.md)
 ## Homework
 
 
