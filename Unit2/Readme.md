@@ -29,7 +29,7 @@
 
 
 ## Research
-###  [Research #2 Pair Coding](https://github.com/israelpablo/MineriaDatos/blob/Unit2/Unit2/Research/research2.md)
+###  [Research #2 Distribucion](https://github.com/israelpablo/MineriaDatos/blob/Unit2/Unit2/Research/research2.md)
 ## Homework
 
 
