@@ -66,4 +66,4 @@ f
                                   size = 20,hjust = 0.5))``
 <h4 align="center"> Results</h4>
 
-![image](https://user-images.githubusercontent.com/77422159/117079607-f48de300-acf0-11eb-8b14-5c44c30470ff.png)
+![image](https://github.com/israelpablo/MineriaDatos/tree/Unit2/Unit2/Evaluation/grafica.png)
