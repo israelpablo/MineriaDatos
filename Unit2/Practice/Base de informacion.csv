@@ -1,0 +1,2017 @@
+clave_ent,ent,anio,trimestre,pesos_constantes,canasta_alimentaria,desagregacion
+1,Aguascalientes,2005,1,1715.01,1922.37,Estatal
+1,Aguascalientes,2005,2,1801.87,1948.27,Estatal
+1,Aguascalientes,2005,3,1865,2029.43,Estatal
+1,Aguascalientes,2005,4,1837.42,2038,Estatal
+1,Aguascalientes,2006,1,1776.88,1948.46,Estatal
+1,Aguascalientes,2006,2,1883.55,2083.43,Estatal
+1,Aguascalientes,2006,3,1898.28,2072.56,Estatal
+1,Aguascalientes,2006,4,1856.21,1972.92,Estatal
+1,Aguascalientes,2007,1,1849.38,1951.06,Estatal
+1,Aguascalientes,2007,2,1906.36,2038.6,Estatal
+1,Aguascalientes,2007,3,1836.69,1964.77,Estatal
+1,Aguascalientes,2007,4,1908.26,2025.37,Estatal
+1,Aguascalientes,2008,1,1968.45,2098.79,Estatal
+1,Aguascalientes,2008,2,1844.78,1938.89,Estatal
+1,Aguascalientes,2008,3,1847.14,1929.63,Estatal
+1,Aguascalientes,2008,4,1778.86,1834.62,Estatal
+1,Aguascalientes,2009,1,1651.39,1699.52,Estatal
+1,Aguascalientes,2009,2,1671.23,1679.14,Estatal
+1,Aguascalientes,2009,3,1645.66,1633.05,Estatal
+1,Aguascalientes,2009,4,1645.36,1650.6,Estatal
+1,Aguascalientes,2010,1,1677.39,1677.39,Estatal
+1,Aguascalientes,2010,2,1652.49,1661.68,Estatal
+1,Aguascalientes,2010,3,1669.3,1700.32,Estatal
+1,Aguascalientes,2010,4,1590.32,1607.29,Estatal
+1,Aguascalientes,2011,1,1613.35,1624.57,Estatal
+1,Aguascalientes,2011,2,1593.3,1599.58,Estatal
+1,Aguascalientes,2011,3,1590.92,1602.73,Estatal
+1,Aguascalientes,2011,4,1515.21,1515.58,Estatal
+1,Aguascalientes,2012,1,1589.19,1571.07,Estatal
+1,Aguascalientes,2012,2,1645.9,1608.97,Estatal
+1,Aguascalientes,2012,3,1622.3,1543.81,Estatal
+1,Aguascalientes,2012,4,1682.4,1593.66,Estatal
+1,Aguascalientes,2013,1,1628.86,1545.06,Estatal
+1,Aguascalientes,2013,2,1662.13,1568.87,Estatal
+1,Aguascalientes,2013,3,1525.42,1442.18,Estatal
+1,Aguascalientes,2013,4,1672.57,1574.17,Estatal
+1,Aguascalientes,2014,1,1572.08,1468.49,Estatal
+1,Aguascalientes,2014,2,1631.5,1539.71,Estatal
+1,Aguascalientes,2014,3,1611.46,1505.79,Estatal
+1,Aguascalientes,2014,4,1534.4,1418.56,Estatal
+1,Aguascalientes,2015,1,1578.27,1482.89,Estatal
+1,Aguascalientes,2015,2,1609.14,1503.44,Estatal
+1,Aguascalientes,2015,3,1671.86,1550.41,Estatal
+1,Aguascalientes,2015,4,1717.8,1589.31,Estatal
+1,Aguascalientes,2016,1,1715.82,1560.76,Estatal
+1,Aguascalientes,2016,2,1788.53,1634.53,Estatal
+1,Aguascalientes,2016,3,1779.25,1642.44,Estatal
+1,Aguascalientes,2016,4,1750.65,1603.3,Estatal
+1,Aguascalientes,2017,1,1741.41,1619.87,Estatal
+1,Aguascalientes,2017,2,1741.38,1592.01,Estatal
+1,Aguascalientes,2017,3,1629.22,1440.87,Estatal
+1,Aguascalientes,2017,4,1628.44,1459.41,Estatal
+1,Aguascalientes,2018,1,1679.03,1527.43,Estatal
+1,Aguascalientes,2018,2,1748.61,1596.96,Estatal
+1,Aguascalientes,2018,3,1685.95,1525.67,Estatal
+1,Aguascalientes,2018,4,1688.72,1530.54,Estatal
+1,Aguascalientes,2019,1,1716.79,1542.49,Estatal
+1,Aguascalientes,2019,2,1679.55,1511.78,Estatal
+1,Aguascalientes,2019,3,1787.19,1613.12,Estatal
+1,Aguascalientes,2019,4,1837.73,1666.65,Estatal
+1,Aguascalientes,2020,1,1998.97,1783.88,Estatal
+1,Aguascalientes,2020,3,1868.14,1646.7,Estatal
+1,Aguascalientes,2020,4,1893.03,1671.41,Estatal
+2,Baja California,2005,1,2830.75,3167.1,Estatal
+2,Baja California,2005,2,2902.04,3134.83,Estatal
+2,Baja California,2005,3,2958.26,3216.32,Estatal
+2,Baja California,2005,4,3032.93,3357.09,Estatal
+2,Baja California,2006,1,3052.6,3343.41,Estatal
+2,Baja California,2006,2,3159.52,3488.87,Estatal
+2,Baja California,2006,3,3088.14,3367.31,Estatal
+2,Baja California,2006,4,2945.13,3129.88,Estatal
+2,Baja California,2007,1,2914.79,3074.17,Estatal
+2,Baja California,2007,2,3048.31,3256.27,Estatal
+2,Baja California,2007,3,2899.59,3098.29,Estatal
+2,Baja California,2007,4,3001.23,3182.4,Estatal
+2,Baja California,2008,1,2972.15,3164.05,Estatal
+2,Baja California,2008,2,2941.77,3088.59,Estatal
+2,Baja California,2008,3,2841.93,2966.25,Estatal
+2,Baja California,2008,4,2540.99,2619.51,Estatal
+2,Baja California,2009,1,2576.91,2650.17,Estatal
+2,Baja California,2009,2,2567.3,2579.05,Estatal
+2,Baja California,2009,3,2332.62,2314.46,Estatal
+2,Baja California,2009,4,2342.2,2349.14,Estatal
+2,Baja California,2010,1,2428.77,2428.77,Estatal
+2,Baja California,2010,2,2341.46,2353,Estatal
+2,Baja California,2010,3,2352.2,2392.54,Estatal
+2,Baja California,2010,4,2333.19,2356.06,Estatal
+2,Baja California,2011,1,2382.83,2397.39,Estatal
+2,Baja California,2011,2,2360.16,2367.24,Estatal
+2,Baja California,2011,3,2298.42,2312.98,Estatal
+2,Baja California,2011,4,2283.11,2282.02,Estatal
+2,Baja California,2012,1,2292.88,2266.45,Estatal
+2,Baja California,2012,2,2357.7,2304.19,Estatal
+2,Baja California,2012,3,2252.99,2144.57,Estatal
+2,Baja California,2012,4,2302.05,2181.05,Estatal
+2,Baja California,2013,1,2269.56,2152.84,Estatal
+2,Baja California,2013,2,2366.37,2233.8,Estatal
+2,Baja California,2013,3,2277.04,2151.86,Estatal
+2,Baja California,2013,4,2272.19,2138.48,Estatal
+2,Baja California,2014,1,2166.02,2022.04,Estatal
+2,Baja California,2014,2,2199.29,2071.98,Estatal
+2,Baja California,2014,3,2111.31,1969.71,Estatal
+2,Baja California,2014,4,2137.92,1974.84,Estatal
+2,Baja California,2015,1,2135.09,2005.52,Estatal
+2,Baja California,2015,2,2143.94,2003.16,Estatal
+2,Baja California,2015,3,2116.98,1963.26,Estatal
+2,Baja California,2015,4,2163.42,2001.78,Estatal
+2,Baja California,2016,1,2182,1986.72,Estatal
+2,Baja California,2016,2,2255.6,2062.05,Estatal
+2,Baja California,2016,3,2405.77,2221.19,Estatal
+2,Baja California,2016,4,2290.87,2099.46,Estatal
+2,Baja California,2017,1,2220.44,2065.1,Estatal
+2,Baja California,2017,2,2299.54,2102.45,Estatal
+2,Baja California,2017,3,2206.1,1952.72,Estatal
+2,Baja California,2017,4,2248.27,2015.84,Estatal
+2,Baja California,2018,1,2364.15,2150.62,Estatal
+2,Baja California,2018,2,2477.95,2262.43,Estatal
+2,Baja California,2018,3,2306.81,2086.5,Estatal
+2,Baja California,2018,4,2327.8,2110.27,Estatal
+2,Baja California,2019,1,2618.82,2353.41,Estatal
+2,Baja California,2019,2,2614,2352.87,Estatal
+2,Baja California,2019,3,2675.36,2414.55,Estatal
+2,Baja California,2019,4,2580.07,2339.49,Estatal
+2,Baja California,2020,1,2624.13,2342.61,Estatal
+2,Baja California,2020,3,2343.9,2067.95,Estatal
+2,Baja California,2020,4,2396.11,2118.22,Estatal
+3,Baja California Sur,2005,1,2816.4,3155.13,Estatal
+3,Baja California Sur,2005,2,2903.59,3139.44,Estatal
+3,Baja California Sur,2005,3,2917.74,3174.07,Estatal
+3,Baja California Sur,2005,4,3048.79,3378.58,Estatal
+3,Baja California Sur,2006,1,2893.82,3172.84,Estatal
+3,Baja California Sur,2006,2,3267.75,3613.55,Estatal
+3,Baja California Sur,2006,3,3140.44,3427.88,Estatal
+3,Baja California Sur,2006,4,3558.72,3782.35,Estatal
+3,Baja California Sur,2007,1,3271.05,3450.61,Estatal
+3,Baja California Sur,2007,2,3300.94,3529.02,Estatal
+3,Baja California Sur,2007,3,3570,3816.95,Estatal
+3,Baja California Sur,2007,4,3841.53,4076.13,Estatal
+3,Baja California Sur,2008,1,3748.17,3992.5,Estatal
+3,Baja California Sur,2008,2,3768.33,3958.41,Estatal
+3,Baja California Sur,2008,3,3417.92,3568.69,Estatal
+3,Baja California Sur,2008,4,3312.52,3415.65,Estatal
+3,Baja California Sur,2009,1,3233.03,3326.08,Estatal
+3,Baja California Sur,2009,2,3072.51,3086.94,Estatal
+3,Baja California Sur,2009,3,2999.34,2976.21,Estatal
+3,Baja California Sur,2009,4,2728.92,2737.45,Estatal
+3,Baja California Sur,2010,1,2808.88,2808.88,Estatal
+3,Baja California Sur,2010,2,2936.35,2952.21,Estatal
+3,Baja California Sur,2010,3,2786.79,2836.88,Estatal
+3,Baja California Sur,2010,4,2713.09,2741.61,Estatal
+3,Baja California Sur,2011,1,2744.13,2762.64,Estatal
+3,Baja California Sur,2011,2,2823.11,2832.63,Estatal
+3,Baja California Sur,2011,3,2757.81,2776.85,Estatal
+3,Baja California Sur,2011,4,3126.47,3125.75,Estatal
+3,Baja California Sur,2012,1,2861.61,2828.89,Estatal
+3,Baja California Sur,2012,2,2938.25,2872.1,Estatal
+3,Baja California Sur,2012,3,2994.29,2849.77,Estatal
+3,Baja California Sur,2012,4,3029.79,2870.12,Estatal
+3,Baja California Sur,2013,1,2715.46,2575.77,Estatal
+3,Baja California Sur,2013,2,2795.57,2638.85,Estatal
+3,Baja California Sur,2013,3,2868,2710.97,Estatal
+3,Baja California Sur,2013,4,2755.88,2593.73,Estatal
+3,Baja California Sur,2014,1,2814.15,2628.29,Estatal
+3,Baja California Sur,2014,2,2665.95,2513.47,Estatal
+3,Baja California Sur,2014,3,2502.53,2335.93,Estatal
+3,Baja California Sur,2014,4,2763.31,2554.13,Estatal
+3,Baja California Sur,2015,1,2761.04,2593.79,Estatal
+3,Baja California Sur,2015,2,2837.02,2650.7,Estatal
+3,Baja California Sur,2015,3,2716.22,2518.94,Estatal
+3,Baja California Sur,2015,4,2792.89,2584.06,Estatal
+3,Baja California Sur,2016,1,2800.41,2548.93,Estatal
+3,Baja California Sur,2016,2,2768.69,2530.8,Estatal
+3,Baja California Sur,2016,3,2839,2621.04,Estatal
+3,Baja California Sur,2016,4,3053.8,2798.21,Estatal
+3,Baja California Sur,2017,1,2947.37,2741.22,Estatal
+3,Baja California Sur,2017,2,2989.32,2733.21,Estatal
+3,Baja California Sur,2017,3,2967,2625.93,Estatal
+3,Baja California Sur,2017,4,2921.33,2618.98,Estatal
+3,Baja California Sur,2018,1,2913.85,2650.69,Estatal
+3,Baja California Sur,2018,2,3036.07,2772.36,Estatal
+3,Baja California Sur,2018,3,2962.23,2679.71,Estatal
+3,Baja California Sur,2018,4,3064.09,2777.52,Estatal
+3,Baja California Sur,2019,1,3081.82,2769.2,Estatal
+3,Baja California Sur,2019,2,3144.72,2830.58,Estatal
+3,Baja California Sur,2019,3,3094.19,2792.63,Estatal
+3,Baja California Sur,2019,4,3037.3,2754.27,Estatal
+3,Baja California Sur,2020,1,3097.24,2764.56,Estatal
+3,Baja California Sur,2020,3,2441.47,2153.67,Estatal
+3,Baja California Sur,2020,4,2752.87,2432.78,Estatal
+4,Campeche,2005,1,1815.45,2032.58,Estatal
+4,Campeche,2005,2,1855.48,2004.96,Estatal
+4,Campeche,2005,3,1867.29,2030.52,Estatal
+4,Campeche,2005,4,1933.64,2141.93,Estatal
+4,Campeche,2006,1,1946.45,2133.16,Estatal
+4,Campeche,2006,2,2036.81,2250.86,Estatal
+4,Campeche,2006,3,1962.44,2140.9,Estatal
+4,Campeche,2006,4,1857.64,1974.31,Estatal
+4,Campeche,2007,1,1871.19,1973.79,Estatal
+4,Campeche,2007,2,1933.27,2066.01,Estatal
+4,Campeche,2007,3,1932.01,2065.37,Estatal
+4,Campeche,2007,4,1997.45,2118.59,Estatal
+4,Campeche,2008,1,2065.22,2199.9,Estatal
+4,Campeche,2008,2,2060.34,2164.09,Estatal
+4,Campeche,2008,3,1982.83,2070.08,Estatal
+4,Campeche,2008,4,1876.82,1935.1,Estatal
+4,Campeche,2009,1,1929.49,1984.93,Estatal
+4,Campeche,2009,2,1854.69,1863.34,Estatal
+4,Campeche,2009,3,1869.44,1855.01,Estatal
+4,Campeche,2009,4,1920.07,1925.91,Estatal
+4,Campeche,2010,1,1864.33,1864.33,Estatal
+4,Campeche,2010,2,1838.2,1847.7,Estatal
+4,Campeche,2010,3,1859.63,1892.2,Estatal
+4,Campeche,2010,4,1781.95,1800.09,Estatal
+4,Campeche,2011,1,1856,1868.3,Estatal
+4,Campeche,2011,2,1924.51,1930.85,Estatal
+4,Campeche,2011,3,1923.74,1936.76,Estatal
+4,Campeche,2011,4,1954.22,1953.72,Estatal
+4,Campeche,2012,1,1961.51,1939.06,Estatal
+4,Campeche,2012,2,2050.1,2003.8,Estatal
+4,Campeche,2012,3,1935.53,1842.08,Estatal
+4,Campeche,2012,4,1988.79,1884.04,Estatal
+4,Campeche,2013,1,1920.48,1821.69,Estatal
+4,Campeche,2013,2,2037.17,1922.97,Estatal
+4,Campeche,2013,3,2048.35,1936.02,Estatal
+4,Campeche,2013,4,2009.16,1890.94,Estatal
+4,Campeche,2014,1,2010.45,1877.39,Estatal
+4,Campeche,2014,2,1967.62,1855.15,Estatal
+4,Campeche,2014,3,1926.96,1798.76,Estatal
+4,Campeche,2014,4,1854.8,1713.86,Estatal
+4,Campeche,2015,1,1845.18,1733.37,Estatal
+4,Campeche,2015,2,1945.34,1817.58,Estatal
+4,Campeche,2015,3,1882.64,1745.91,Estatal
+4,Campeche,2015,4,1915.92,1772.69,Estatal
+4,Campeche,2016,1,1884.18,1714.53,Estatal
+4,Campeche,2016,2,1858.44,1698.65,Estatal
+4,Campeche,2016,3,1831.35,1690.6,Estatal
+4,Campeche,2016,4,1799.86,1648.8,Estatal
+4,Campeche,2017,1,1750.51,1628.22,Estatal
+4,Campeche,2017,2,1657.84,1515.68,Estatal
+4,Campeche,2017,3,1657.83,1466.97,Estatal
+4,Campeche,2017,4,1717.92,1540.04,Estatal
+4,Campeche,2018,1,1688.39,1535.91,Estatal
+4,Campeche,2018,2,1765.25,1611.9,Estatal
+4,Campeche,2018,3,1738.19,1572.31,Estatal
+4,Campeche,2018,4,1690.24,1532.16,Estatal
+4,Campeche,2019,1,1703.78,1530.98,Estatal
+4,Campeche,2019,2,1803.14,1623.02,Estatal
+4,Campeche,2019,3,1825.8,1647.94,Estatal
+4,Campeche,2019,4,1770.71,1605.77,Estatal
+4,Campeche,2020,1,1812.79,1617.84,Estatal
+4,Campeche,2020,3,1536.12,1354.41,Estatal
+4,Campeche,2020,4,1764.55,1558.62,Estatal
+5,Coahuila,2005,1,2161,2416.75,Estatal
+5,Coahuila,2005,2,2280.48,2463.01,Estatal
+5,Coahuila,2005,3,2182.51,2372.25,Estatal
+5,Coahuila,2005,4,2166.09,2397.6,Estatal
+5,Coahuila,2006,1,2211.75,2422.1,Estatal
+5,Coahuila,2006,2,2225.63,2457.24,Estatal
+5,Coahuila,2006,3,2396.34,2612.68,Estatal
+5,Coahuila,2006,4,2240.57,2381.08,Estatal
+5,Coahuila,2007,1,2360.49,2489.52,Estatal
+5,Coahuila,2007,2,2336.12,2495.14,Estatal
+5,Coahuila,2007,3,2344.99,2505.44,Estatal
+5,Coahuila,2007,4,2327.4,2467.55,Estatal
+5,Coahuila,2008,1,2254.05,2399.38,Estatal
+5,Coahuila,2008,2,2190.61,2299.72,Estatal
+5,Coahuila,2008,3,2183.37,2278.43,Estatal
+5,Coahuila,2008,4,2057.57,2120.97,Estatal
+5,Coahuila,2009,1,1967.97,2023.59,Estatal
+5,Coahuila,2009,2,2008.06,2017.16,Estatal
+5,Coahuila,2009,3,1910.93,1896.04,Estatal
+5,Coahuila,2009,4,1917.11,1922.7,Estatal
+5,Coahuila,2010,1,1888.93,1888.93,Estatal
+5,Coahuila,2010,2,1889.99,1899.3,Estatal
+5,Coahuila,2010,3,1911.36,1943.74,Estatal
+5,Coahuila,2010,4,1791.13,1808.76,Estatal
+5,Coahuila,2011,1,1914.38,1926.02,Estatal
+5,Coahuila,2011,2,1994.5,2000.2,Estatal
+5,Coahuila,2011,3,2071.1,2084,Estatal
+5,Coahuila,2011,4,1981.61,1980.63,Estatal
+5,Coahuila,2012,1,1924.56,1902.36,Estatal
+5,Coahuila,2012,2,2000.75,1955.34,Estatal
+5,Coahuila,2012,3,2091.42,1990.73,Estatal
+5,Coahuila,2012,4,1993.76,1888.98,Estatal
+5,Coahuila,2013,1,2038.37,1933.54,Estatal
+5,Coahuila,2013,2,2106.74,1988.72,Estatal
+5,Coahuila,2013,3,2145.9,2027.89,Estatal
+5,Coahuila,2013,4,2119.69,1994.95,Estatal
+5,Coahuila,2014,1,2005.13,1871.82,Estatal
+5,Coahuila,2014,2,1998.43,1882.72,Estatal
+5,Coahuila,2014,3,2094.37,1953.6,Estatal
+5,Coahuila,2014,4,2064.04,1906.49,Estatal
+5,Coahuila,2015,1,2028.76,1905.58,Estatal
+5,Coahuila,2015,2,2089.62,1952.41,Estatal
+5,Coahuila,2015,3,2144.02,1988.35,Estatal
+5,Coahuila,2015,4,2110.96,1953.25,Estatal
+5,Coahuila,2016,1,2106.42,1917.9,Estatal
+5,Coahuila,2016,2,2134.11,1950.94,Estatal
+5,Coahuila,2016,3,2222.49,2052,Estatal
+5,Coahuila,2016,4,2132.22,1954.11,Estatal
+5,Coahuila,2017,1,2182.6,2029.77,Estatal
+5,Coahuila,2017,2,2195.78,2007.78,Estatal
+5,Coahuila,2017,3,2125.29,1881.52,Estatal
+5,Coahuila,2017,4,2143.29,1921.78,Estatal
+5,Coahuila,2018,1,2112.76,1921.92,Estatal
+5,Coahuila,2018,2,2202.05,2010.52,Estatal
+5,Coahuila,2018,3,2170.96,1963.55,Estatal
+5,Coahuila,2018,4,2168.67,1966.05,Estatal
+5,Coahuila,2019,1,2176.94,1956.33,Estatal
+5,Coahuila,2019,2,2301.38,2071.48,Estatal
+5,Coahuila,2019,3,2383.17,2150.85,Estatal
+5,Coahuila,2019,4,2304.57,2089.65,Estatal
+5,Coahuila,2020,1,2336.59,2085.92,Estatal
+5,Coahuila,2020,3,2193.44,1935.4,Estatal
+5,Coahuila,2020,4,2198.72,1943.73,Estatal
+6,Colima,2005,1,2215.7,2479.12,Estatal
+6,Colima,2005,2,2306.92,2492.09,Estatal
+6,Colima,2005,3,2371.47,2578.03,Estatal
+6,Colima,2005,4,2241.91,2482.07,Estatal
+6,Colima,2006,1,2357.87,2582.71,Estatal
+6,Colima,2006,2,2457.21,2713.83,Estatal
+6,Colima,2006,3,2518.15,2745.92,Estatal
+6,Colima,2006,4,2412.59,2563.97,Estatal
+6,Colima,2007,1,2333.37,2461.06,Estatal
+6,Colima,2007,2,2411.34,2576.26,Estatal
+6,Colima,2007,3,2431.95,2598.65,Estatal
+6,Colima,2007,4,2468.87,2618.09,Estatal
+6,Colima,2008,1,2540.07,2704.69,Estatal
+6,Colima,2008,2,2526.95,2653.64,Estatal
+6,Colima,2008,3,2568.4,2680.64,Estatal
+6,Colima,2008,4,2429.94,2505.15,Estatal
+6,Colima,2009,1,2415.61,2484.45,Estatal
+6,Colima,2009,2,2284.09,2294.58,Estatal
+6,Colima,2009,3,2376.79,2358.33,Estatal
+6,Colima,2009,4,2243.34,2250.02,Estatal
+6,Colima,2010,1,2308.71,2308.71,Estatal
+6,Colima,2010,2,2412.08,2424.28,Estatal
+6,Colima,2010,3,2395.12,2436.18,Estatal
+6,Colima,2010,4,2222.46,2244.65,Estatal
+6,Colima,2011,1,2221.64,2235.71,Estatal
+6,Colima,2011,2,2294.94,2301.88,Estatal
+6,Colima,2011,3,2193.37,2207.54,Estatal
+6,Colima,2011,4,2210.63,2209.67,Estatal
+6,Colima,2012,1,2306.38,2279.84,Estatal
+6,Colima,2012,2,2357.63,2304.26,Estatal
+6,Colima,2012,3,2411.91,2295.72,Estatal
+6,Colima,2012,4,2306.9,2185.53,Estatal
+6,Colima,2013,1,2361.18,2239.73,Estatal
+6,Colima,2013,2,2444.74,2307.74,Estatal
+6,Colima,2013,3,2292.88,2166.89,Estatal
+6,Colima,2013,4,2338.4,2200.81,Estatal
+6,Colima,2014,1,2223.45,2075.84,Estatal
+6,Colima,2014,2,2198.55,2072.07,Estatal
+6,Colima,2014,3,2217.12,2068.37,Estatal
+6,Colima,2014,4,2193.75,2026.55,Estatal
+6,Colima,2015,1,2205.94,2072.1,Estatal
+6,Colima,2015,2,2182.2,2038.91,Estatal
+6,Colima,2015,3,2182.18,2023.72,Estatal
+6,Colima,2015,4,2171.38,2009.12,Estatal
+6,Colima,2016,1,2229.22,2029.47,Estatal
+6,Colima,2016,2,2206.92,2017.45,Estatal
+6,Colima,2016,3,2217.94,2047.7,Estatal
+6,Colima,2016,4,2250.46,2062.33,Estatal
+6,Colima,2017,1,2290.03,2129.89,Estatal
+6,Colima,2017,2,2179.38,1992.65,Estatal
+6,Colima,2017,3,2271.52,2010.43,Estatal
+6,Colima,2017,4,2270.76,2035.8,Estatal
+6,Colima,2018,1,2384.41,2169.06,Estatal
+6,Colima,2018,2,2362.09,2156.87,Estatal
+6,Colima,2018,3,2500.92,2262.35,Estatal
+6,Colima,2018,4,2387.36,2164.11,Estatal
+6,Colima,2019,1,2368.16,2128.03,Estatal
+6,Colima,2019,2,2336.41,2103.02,Estatal
+6,Colima,2019,3,2408.71,2173.97,Estatal
+6,Colima,2019,4,2386.93,2164.42,Estatal
+6,Colima,2020,1,2396.96,2139.57,Estatal
+6,Colima,2020,3,2103.8,1855.88,Estatal
+6,Colima,2020,4,2233.91,1974.28,Estatal
+7,Chiapas,2005,1,859.86,965.93,Estatal
+7,Chiapas,2005,2,868.87,940.57,Estatal
+7,Chiapas,2005,3,896.18,977.49,Estatal
+7,Chiapas,2005,4,870.55,967.8,Estatal
+7,Chiapas,2006,1,899.32,988.01,Estatal
+7,Chiapas,2006,2,900.4,998.92,Estatal
+7,Chiapas,2006,3,899.53,984.02,Estatal
+7,Chiapas,2006,4,908.33,965.62,Estatal
+7,Chiapas,2007,1,960.68,1013.95,Estatal
+7,Chiapas,2007,2,994.52,1065,Estatal
+7,Chiapas,2007,3,956.17,1024.35,Estatal
+7,Chiapas,2007,4,989.79,1052.04,Estatal
+7,Chiapas,2008,1,970.65,1036.81,Estatal
+7,Chiapas,2008,2,986.11,1037.77,Estatal
+7,Chiapas,2008,3,974.19,1018.65,Estatal
+7,Chiapas,2008,4,949.16,979.4,Estatal
+7,Chiapas,2009,1,985.47,1015.07,Estatal
+7,Chiapas,2009,2,959.19,963.97,Estatal
+7,Chiapas,2009,3,1028.93,1021.11,Estatal
+7,Chiapas,2009,4,957.26,960.57,Estatal
+7,Chiapas,2010,1,969.7,969.7,Estatal
+7,Chiapas,2010,2,954.74,960.63,Estatal
+7,Chiapas,2010,3,970.03,988.98,Estatal
+7,Chiapas,2010,4,921.34,931.81,Estatal
+7,Chiapas,2011,1,1003.55,1011.52,Estatal
+7,Chiapas,2011,2,1026.26,1031.23,Estatal
+7,Chiapas,2011,3,985.15,993.49,Estatal
+7,Chiapas,2011,4,972.49,973,Estatal
+7,Chiapas,2012,1,984.75,973.68,Estatal
+7,Chiapas,2012,2,983.31,961.5,Estatal
+7,Chiapas,2012,3,983.4,935.55,Estatal
+7,Chiapas,2012,4,944.7,894.7,Estatal
+7,Chiapas,2013,1,986.36,935.61,Estatal
+7,Chiapas,2013,2,935.02,882.5,Estatal
+7,Chiapas,2013,3,965.28,912.9,Estatal
+7,Chiapas,2013,4,917.22,863.27,Estatal
+7,Chiapas,2014,1,944,882.58,Estatal
+7,Chiapas,2014,2,865.99,818.87,Estatal
+7,Chiapas,2014,3,881.9,825.03,Estatal
+7,Chiapas,2014,4,863.71,798.82,Estatal
+7,Chiapas,2015,1,921.77,866.17,Estatal
+7,Chiapas,2015,2,912.89,852.91,Estatal
+7,Chiapas,2015,3,928.2,860.75,Estatal
+7,Chiapas,2015,4,899.61,832.22,Estatal
+7,Chiapas,2016,1,971.15,882.45,Estatal
+7,Chiapas,2016,2,911.66,832.9,Estatal
+7,Chiapas,2016,3,932.3,860.36,Estatal
+7,Chiapas,2016,4,914.51,837.05,Estatal
+7,Chiapas,2017,1,916.02,852.29,Estatal
+7,Chiapas,2017,2,897.52,820.35,Estatal
+7,Chiapas,2017,3,862.08,761.94,Estatal
+7,Chiapas,2017,4,858.14,768.95,Estatal
+7,Chiapas,2018,1,898.62,817.49,Estatal
+7,Chiapas,2018,2,904.18,825.94,Estatal
+7,Chiapas,2018,3,907.83,821.69,Estatal
+7,Chiapas,2018,4,871.08,789.39,Estatal
+7,Chiapas,2019,1,903.85,812.02,Estatal
+7,Chiapas,2019,2,898.64,808.88,Estatal
+7,Chiapas,2019,3,909.98,821.43,Estatal
+7,Chiapas,2019,4,979.8,888.74,Estatal
+7,Chiapas,2020,1,991.99,884.92,Estatal
+7,Chiapas,2020,3,887.66,781.61,Estatal
+7,Chiapas,2020,4,998.81,880.68,Estatal
+8,Chihuahua,2005,1,2134.53,2388.95,Estatal
+8,Chihuahua,2005,2,2243.6,2423.7,Estatal
+8,Chihuahua,2005,3,2314.06,2516.83,Estatal
+8,Chihuahua,2005,4,2540.66,2811.94,Estatal
+8,Chihuahua,2006,1,2424.15,2655.07,Estatal
+8,Chihuahua,2006,2,2660.01,2938.84,Estatal
+8,Chihuahua,2006,3,2558.16,2790.38,Estatal
+8,Chihuahua,2006,4,2418.66,2570.52,Estatal
+8,Chihuahua,2007,1,2430.11,2563.23,Estatal
+8,Chihuahua,2007,2,2483.26,2653.19,Estatal
+8,Chihuahua,2007,3,2742.09,2930.57,Estatal
+8,Chihuahua,2007,4,2457.39,2606.42,Estatal
+8,Chihuahua,2008,1,2552.42,2718.23,Estatal
+8,Chihuahua,2008,2,2457.77,2581.18,Estatal
+8,Chihuahua,2008,3,2351.25,2454.36,Estatal
+8,Chihuahua,2008,4,2087.68,2152.3,Estatal
+8,Chihuahua,2009,1,2155.69,2217.51,Estatal
+8,Chihuahua,2009,2,2141.72,2151.61,Estatal
+8,Chihuahua,2009,3,2066.32,2050.32,Estatal
+8,Chihuahua,2009,4,1907.32,1913.1,Estatal
+8,Chihuahua,2010,1,1930.71,1930.71,Estatal
+8,Chihuahua,2010,2,2001.41,2011.92,Estatal
+8,Chihuahua,2010,3,1923.45,1957.1,Estatal
+8,Chihuahua,2010,4,1675.38,1692.9,Estatal
+8,Chihuahua,2011,1,1675.22,1686.33,Estatal
+8,Chihuahua,2011,2,1713.25,1718.85,Estatal
+8,Chihuahua,2011,3,1671.26,1682.57,Estatal
+8,Chihuahua,2011,4,1836.64,1836.45,Estatal
+8,Chihuahua,2012,1,1789.22,1768.74,Estatal
+8,Chihuahua,2012,2,1930.08,1886.42,Estatal
+8,Chihuahua,2012,3,1987.18,1891.4,Estatal
+8,Chihuahua,2012,4,1964.14,1860.73,Estatal
+8,Chihuahua,2013,1,1855.03,1759.62,Estatal
+8,Chihuahua,2013,2,2024.49,1911.06,Estatal
+8,Chihuahua,2013,3,1994.38,1885.04,Estatal
+8,Chihuahua,2013,4,2035.38,1915.62,Estatal
+8,Chihuahua,2014,1,1953.89,1824.29,Estatal
+8,Chihuahua,2014,2,2101.32,1980.69,Estatal
+8,Chihuahua,2014,3,2033.25,1898.32,Estatal
+8,Chihuahua,2014,4,1992.19,1840.56,Estatal
+8,Chihuahua,2015,1,2018.48,1896.11,Estatal
+8,Chihuahua,2015,2,2142.3,2001.61,Estatal
+8,Chihuahua,2015,3,2167.33,2009.93,Estatal
+8,Chihuahua,2015,4,2276.79,2106.53,Estatal
+8,Chihuahua,2016,1,2213.26,2014.29,Estatal
+8,Chihuahua,2016,2,2419.53,2211.62,Estatal
+8,Chihuahua,2016,3,2517.87,2324.45,Estatal
+8,Chihuahua,2016,4,2481.5,2273.7,Estatal
+8,Chihuahua,2017,1,2510.69,2335.23,Estatal
+8,Chihuahua,2017,2,2376.63,2172.97,Estatal
+8,Chihuahua,2017,3,2442.9,2161.75,Estatal
+8,Chihuahua,2017,4,2358.52,2114.2,Estatal
+8,Chihuahua,2018,1,2302.23,2094.33,Estatal
+8,Chihuahua,2018,2,2411.28,2201.8,Estatal
+8,Chihuahua,2018,3,2391.94,2163.68,Estatal
+8,Chihuahua,2018,4,2313.88,2097.55,Estatal
+8,Chihuahua,2019,1,2367.28,2127.24,Estatal
+8,Chihuahua,2019,2,2429.4,2186.72,Estatal
+8,Chihuahua,2019,3,2401.42,2167.38,Estatal
+8,Chihuahua,2019,4,2433.01,2206.23,Estatal
+8,Chihuahua,2020,1,2528.26,2256.36,Estatal
+8,Chihuahua,2020,3,2471.33,2178.68,Estatal
+8,Chihuahua,2020,4,2363.04,2086.73,Estatal
+9,Ciudad de México,2005,1,2608.67,2913.74,Estatal
+9,Ciudad de México,2005,2,2617.79,2825.64,Estatal
+9,Ciudad de México,2005,3,2616.14,2841.1,Estatal
+9,Ciudad de México,2005,4,2839.97,3139.04,Estatal
+9,Ciudad de México,2006,1,2779.43,3041.23,Estatal
+9,Ciudad de México,2006,2,2796.94,3084.13,Estatal
+9,Ciudad de México,2006,3,2929.98,3191.7,Estatal
+9,Ciudad de México,2006,4,2827.4,3004.47,Estatal
+9,Ciudad de México,2007,1,2973.09,3135.08,Estatal
+9,Ciudad de México,2007,2,2884.83,3079.54,Estatal
+9,Ciudad de México,2007,3,2880.86,3075.93,Estatal
+9,Ciudad de México,2007,4,2860.76,3031.37,Estatal
+9,Ciudad de México,2008,1,2824.44,3004.12,Estatal
+9,Ciudad de México,2008,2,2690.63,2822.74,Estatal
+9,Ciudad de México,2008,3,2682.36,2797.58,Estatal
+9,Ciudad de México,2008,4,2643.51,2724.22,Estatal
+9,Ciudad de México,2009,1,2563.96,2635.32,Estatal
+9,Ciudad de México,2009,2,2658.33,2670.05,Estatal
+9,Ciudad de México,2009,3,2539.9,2519.95,Estatal
+9,Ciudad de México,2009,4,2352.74,2359.25,Estatal
+9,Ciudad de México,2010,1,2414.13,2414.13,Estatal
+9,Ciudad de México,2010,2,2498.26,2509.52,Estatal
+9,Ciudad de México,2010,3,2470.23,2510.06,Estatal
+9,Ciudad de México,2010,4,2266.47,2287.44,Estatal
+9,Ciudad de México,2011,1,2309.69,2322.35,Estatal
+9,Ciudad de México,2011,2,2465.76,2471.15,Estatal
+9,Ciudad de México,2011,3,2501.44,2515.2,Estatal
+9,Ciudad de México,2011,4,2408.77,2406.69,Estatal
+9,Ciudad de México,2012,1,2405.75,2377.77,Estatal
+9,Ciudad de México,2012,2,2495.08,2438,Estatal
+9,Ciudad de México,2012,3,2586.84,2462.86,Estatal
+9,Ciudad de México,2012,4,2441.48,2313.52,Estatal
+9,Ciudad de México,2013,1,2428.67,2303.79,Estatal
+9,Ciudad de México,2013,2,2280.26,2152.63,Estatal
+9,Ciudad de México,2013,3,2404.11,2271.41,Estatal
+9,Ciudad de México,2013,4,2342.74,2204.86,Estatal
+9,Ciudad de México,2014,1,2192.77,2046.21,Estatal
+9,Ciudad de México,2014,2,2216.95,2086.51,Estatal
+9,Ciudad de México,2014,3,2138.97,1993.37,Estatal
+9,Ciudad de México,2014,4,2109.72,1947.81,Estatal
+9,Ciudad de México,2015,1,2234.85,2098.89,Estatal
+9,Ciudad de México,2015,2,2273.97,2124.7,Estatal
+9,Ciudad de México,2015,3,2597.43,2408.88,Estatal
+9,Ciudad de México,2015,4,2315.32,2142.48,Estatal
+9,Ciudad de México,2016,1,2347.15,2138.32,Estatal
+9,Ciudad de México,2016,2,2327.39,2128.04,Estatal
+9,Ciudad de México,2016,3,2512.03,2319.69,Estatal
+9,Ciudad de México,2016,4,2575.41,2361.35,Estatal
+9,Ciudad de México,2017,1,2450.19,2278.34,Estatal
+9,Ciudad de México,2017,2,2549.52,2331.5,Estatal
+9,Ciudad de México,2017,3,2457.13,2176.42,Estatal
+9,Ciudad de México,2017,4,2214.99,1986.52,Estatal
+9,Ciudad de México,2018,1,2467.26,2244.37,Estatal
+9,Ciudad de México,2018,2,2488.35,2271.46,Estatal
+9,Ciudad de México,2018,3,2437.34,2203.85,Estatal
+9,Ciudad de México,2018,4,2348.88,2129.74,Estatal
+9,Ciudad de México,2019,1,2435.92,2189.31,Estatal
+9,Ciudad de México,2019,2,2486.06,2237.7,Estatal
+9,Ciudad de México,2019,3,2393.91,2160.38,Estatal
+9,Ciudad de México,2019,4,2423.4,2197.1,Estatal
+9,Ciudad de México,2020,1,2714.3,2423.71,Estatal
+9,Ciudad de México,2020,3,1944.18,1716.52,Estatal
+9,Ciudad de México,2020,4,2113.18,1869.6,Estatal
+10,Durango,2005,1,1452.15,1629.48,Estatal
+10,Durango,2005,2,1434.86,1552.34,Estatal
+10,Durango,2005,3,1495.52,1628.63,Estatal
+10,Durango,2005,4,1536.37,1705.46,Estatal
+10,Durango,2006,1,1536.32,1685.86,Estatal
+10,Durango,2006,2,1550.81,1717.95,Estatal
+10,Durango,2006,3,1589.36,1735.93,Estatal
+10,Durango,2006,4,1581.89,1681.48,Estatal
+10,Durango,2007,1,1533.66,1618.18,Estatal
+10,Durango,2007,2,1618.22,1731.05,Estatal
+10,Durango,2007,3,1587.45,1698.67,Estatal
+10,Durango,2007,4,1730.8,1837.5,Estatal
+10,Durango,2008,1,1607.85,1715.49,Estatal
+10,Durango,2008,2,1660.08,1745.9,Estatal
+10,Durango,2008,3,1607.03,1679.62,Estatal
+10,Durango,2008,4,1516.62,1564.44,Estatal
+10,Durango,2009,1,1495.82,1540.01,Estatal
+10,Durango,2009,2,1473.87,1481.09,Estatal
+10,Durango,2009,3,1452.06,1441.03,Estatal
+10,Durango,2009,4,1363.38,1367.93,Estatal
+10,Durango,2010,1,1383.83,1383.83,Estatal
+10,Durango,2010,2,1428.03,1436.87,Estatal
+10,Durango,2010,3,1425.46,1452.67,Estatal
+10,Durango,2010,4,1388.01,1403.89,Estatal
+10,Durango,2011,1,1360.75,1371.56,Estatal
+10,Durango,2011,2,1437.63,1443.96,Estatal
+10,Durango,2011,3,1522.76,1535.27,Estatal
+10,Durango,2011,4,1482.37,1483.25,Estatal
+10,Durango,2012,1,1470.08,1453.57,Estatal
+10,Durango,2012,2,1404.35,1373.13,Estatal
+10,Durango,2012,3,1387.35,1319.85,Estatal
+10,Durango,2012,4,1463.52,1385.95,Estatal
+10,Durango,2013,1,1426.83,1353.4,Estatal
+10,Durango,2013,2,1535.61,1449.38,Estatal
+10,Durango,2013,3,1424.79,1347.3,Estatal
+10,Durango,2013,4,1398.71,1316.43,Estatal
+10,Durango,2014,1,1398.26,1306.86,Estatal
+10,Durango,2014,2,1350.64,1276,Estatal
+10,Durango,2014,3,1410.49,1318.78,Estatal
+10,Durango,2014,4,1400.58,1295.33,Estatal
+10,Durango,2015,1,1386,1302.3,Estatal
+10,Durango,2015,2,1462.51,1366.42,Estatal
+10,Durango,2015,3,1574.88,1460.44,Estatal
+10,Durango,2015,4,1551.86,1435.63,Estatal
+10,Durango,2016,1,1556.47,1414.99,Estatal
+10,Durango,2016,2,1604.88,1466.45,Estatal
+10,Durango,2016,3,1617.39,1492.69,Estatal
+10,Durango,2016,4,1633.18,1495.1,Estatal
+10,Durango,2017,1,1623.82,1510.77,Estatal
+10,Durango,2017,2,1645.52,1504.13,Estatal
+10,Durango,2017,3,1670.57,1476.73,Estatal
+10,Durango,2017,4,1578.74,1414.59,Estatal
+10,Durango,2018,1,1577.13,1434.74,Estatal
+10,Durango,2018,2,1645.23,1502.87,Estatal
+10,Durango,2018,3,1569.45,1420.51,Estatal
+10,Durango,2018,4,1639.21,1485.49,Estatal
+10,Durango,2019,1,1651.5,1483.7,Estatal
+10,Durango,2019,2,1776.13,1598.71,Estatal
+10,Durango,2019,3,1762.36,1590.81,Estatal
+10,Durango,2019,4,1747.51,1584.94,Estatal
+10,Durango,2020,1,1783.3,1591.16,Estatal
+10,Durango,2020,3,1738.73,1532.17,Estatal
+10,Durango,2020,4,1736.17,1532.27,Estatal
+11,Guanajuato,2005,1,1534.58,1722.16,Estatal
+11,Guanajuato,2005,2,1506.74,1629.57,Estatal
+11,Guanajuato,2005,3,1471.48,1602.74,Estatal
+11,Guanajuato,2005,4,1562.13,1734.5,Estatal
+11,Guanajuato,2006,1,1515.51,1663.41,Estatal
+11,Guanajuato,2006,2,1581.79,1752.31,Estatal
+11,Guanajuato,2006,3,1579.89,1725.87,Estatal
+11,Guanajuato,2006,4,1614.96,1716.6,Estatal
+11,Guanajuato,2007,1,1629.33,1719.21,Estatal
+11,Guanajuato,2007,2,1711.24,1830.38,Estatal
+11,Guanajuato,2007,3,1609.93,1723.18,Estatal
+11,Guanajuato,2007,4,1588.42,1686.75,Estatal
+11,Guanajuato,2008,1,1554.87,1658.63,Estatal
+11,Guanajuato,2008,2,1512.36,1590.61,Estatal
+11,Guanajuato,2008,3,1479.9,1546.53,Estatal
+11,Guanajuato,2008,4,1402.45,1446.64,Estatal
+11,Guanajuato,2009,1,1433.85,1476.23,Estatal
+11,Guanajuato,2009,2,1366.85,1373.52,Estatal
+11,Guanajuato,2009,3,1428.46,1417.57,Estatal
+11,Guanajuato,2009,4,1411.35,1416.03,Estatal
+11,Guanajuato,2010,1,1361.47,1361.47,Estatal
+11,Guanajuato,2010,2,1363.84,1371.88,Estatal
+11,Guanajuato,2010,3,1396,1422.47,Estatal
+11,Guanajuato,2010,4,1424.45,1440.25,Estatal
+11,Guanajuato,2011,1,1372.47,1382.84,Estatal
+11,Guanajuato,2011,2,1426.01,1432.54,Estatal
+11,Guanajuato,2011,3,1433.1,1444.87,Estatal
+11,Guanajuato,2011,4,1384.18,1384.8,Estatal
+11,Guanajuato,2012,1,1402.49,1386.64,Estatal
+11,Guanajuato,2012,2,1431.23,1399.36,Estatal
+11,Guanajuato,2012,3,1475.37,1403.67,Estatal
+11,Guanajuato,2012,4,1458.16,1381.06,Estatal
+11,Guanajuato,2013,1,1412.75,1340.05,Estatal
+11,Guanajuato,2013,2,1423.92,1343.97,Estatal
+11,Guanajuato,2013,3,1506.87,1424.84,Estatal
+11,Guanajuato,2013,4,1492.07,1404.29,Estatal
+11,Guanajuato,2014,1,1443.45,1349.01,Estatal
+11,Guanajuato,2014,2,1435.12,1355.82,Estatal
+11,Guanajuato,2014,3,1497.9,1400.59,Estatal
+11,Guanajuato,2014,4,1445.86,1337.38,Estatal
+11,Guanajuato,2015,1,1425.2,1339.2,Estatal
+11,Guanajuato,2015,2,1517.05,1417.37,Estatal
+11,Guanajuato,2015,3,1480.79,1373.17,Estatal
+11,Guanajuato,2015,4,1554.18,1437.8,Estatal
+11,Guanajuato,2016,1,1558.75,1416.88,Estatal
+11,Guanajuato,2016,2,1662.63,1519.19,Estatal
+11,Guanajuato,2016,3,1539.44,1420.71,Estatal
+11,Guanajuato,2016,4,1605.15,1469.45,Estatal
+11,Guanajuato,2017,1,1589.58,1478.89,Estatal
+11,Guanajuato,2017,2,1614.78,1475.91,Estatal
+11,Guanajuato,2017,3,1601.6,1415.7,Estatal
+11,Guanajuato,2017,4,1688.68,1513.16,Estatal
+11,Guanajuato,2018,1,1755.71,1597.21,Estatal
+11,Guanajuato,2018,2,1785.72,1631.22,Estatal
+11,Guanajuato,2018,3,1746.01,1580.36,Estatal
+11,Guanajuato,2018,4,1721.89,1560.42,Estatal
+11,Guanajuato,2019,1,1721,1546.16,Estatal
+11,Guanajuato,2019,2,1760.7,1584.83,Estatal
+11,Guanajuato,2019,3,1753.73,1583.03,Estatal
+11,Guanajuato,2019,4,1735.48,1574.13,Estatal
+11,Guanajuato,2020,1,1753.87,1564.76,Estatal
+11,Guanajuato,2020,3,1609.34,1417.79,Estatal
+11,Guanajuato,2020,4,1661.06,1465.22,Estatal
+12,Guerrero,2005,1,1056.75,1186.2,Estatal
+12,Guerrero,2005,2,1099.67,1189.27,Estatal
+12,Guerrero,2005,3,1090.62,1187.34,Estatal
+12,Guerrero,2005,4,1069.6,1186.88,Estatal
+12,Guerrero,2006,1,1172.08,1286.05,Estatal
+12,Guerrero,2006,2,1177.21,1303.47,Estatal
+12,Guerrero,2006,3,1166.17,1274.14,Estatal
+12,Guerrero,2006,4,1138.23,1209.9,Estatal
+12,Guerrero,2007,1,1143.04,1206.27,Estatal
+12,Guerrero,2007,2,1120.77,1199.22,Estatal
+12,Guerrero,2007,3,1107.71,1185.8,Estatal
+12,Guerrero,2007,4,1117.27,1186.53,Estatal
+12,Guerrero,2008,1,1209.11,1290.73,Estatal
+12,Guerrero,2008,2,1198.01,1260.03,Estatal
+12,Guerrero,2008,3,1151.35,1203.45,Estatal
+12,Guerrero,2008,4,1033.41,1065.93,Estatal
+12,Guerrero,2009,1,1104.8,1137.4,Estatal
+12,Guerrero,2009,2,1071.18,1076.39,Estatal
+12,Guerrero,2009,3,1045.38,1037.37,Estatal
+12,Guerrero,2009,4,1057.18,1060.65,Estatal
+12,Guerrero,2010,1,1087.56,1087.56,Estatal
+12,Guerrero,2010,2,1072.79,1079.14,Estatal
+12,Guerrero,2010,3,1000.12,1018.9,Estatal
+12,Guerrero,2010,4,969.78,980.39,Estatal
+12,Guerrero,2011,1,1090.18,1098.45,Estatal
+12,Guerrero,2011,2,1041.36,1045.83,Estatal
+12,Guerrero,2011,3,1001.74,1009.53,Estatal
+12,Guerrero,2011,4,973.43,973.77,Estatal
+12,Guerrero,2012,1,992.56,981.34,Estatal
+12,Guerrero,2012,2,1021.97,999.23,Estatal
+12,Guerrero,2012,3,932.89,887.68,Estatal
+12,Guerrero,2012,4,908.87,860.82,Estatal
+12,Guerrero,2013,1,1018.94,966.51,Estatal
+12,Guerrero,2013,2,1001.22,945.02,Estatal
+12,Guerrero,2013,3,992.9,938.72,Estatal
+12,Guerrero,2013,4,953.89,897.78,Estatal
+12,Guerrero,2014,1,995.28,929.84,Estatal
+12,Guerrero,2014,2,1009.44,953.04,Estatal
+12,Guerrero,2014,3,904.8,845.14,Estatal
+12,Guerrero,2014,4,967.23,894.2,Estatal
+12,Guerrero,2015,1,979.8,920.59,Estatal
+12,Guerrero,2015,2,950.2,887.78,Estatal
+12,Guerrero,2015,3,929.93,862.38,Estatal
+12,Guerrero,2015,4,930.95,861.3,Estatal
+12,Guerrero,2016,1,990.3,900.76,Estatal
+12,Guerrero,2016,2,981.52,896.95,Estatal
+12,Guerrero,2016,3,931.35,859.7,Estatal
+12,Guerrero,2016,4,925.59,847.72,Estatal
+12,Guerrero,2017,1,1041.57,968.96,Estatal
+12,Guerrero,2017,2,982.76,898.34,Estatal
+12,Guerrero,2017,3,932.74,824.73,Estatal
+12,Guerrero,2017,4,915.57,820.47,Estatal
+12,Guerrero,2018,1,984.63,895.74,Estatal
+12,Guerrero,2018,2,994.3,908.27,Estatal
+12,Guerrero,2018,3,933.86,845.15,Estatal
+12,Guerrero,2018,4,960.99,870.88,Estatal
+12,Guerrero,2019,1,1012.71,909.82,Estatal
+12,Guerrero,2019,2,1005.66,905.2,Estatal
+12,Guerrero,2019,3,1016.12,917.22,Estatal
+12,Guerrero,2019,4,1016.3,921.79,Estatal
+12,Guerrero,2020,1,1154.71,1030.22,Estatal
+12,Guerrero,2020,3,967.98,852.37,Estatal
+12,Guerrero,2020,4,1123.37,991.28,Estatal
+13,Hidalgo,2005,1,1374.51,1548.09,Estatal
+13,Hidalgo,2005,2,1401.33,1518.46,Estatal
+13,Hidalgo,2005,3,1339.15,1462.48,Estatal
+13,Hidalgo,2005,4,1352.68,1506.88,Estatal
+13,Hidalgo,2006,1,1317.55,1449.36,Estatal
+13,Hidalgo,2006,2,1406.57,1562.82,Estatal
+13,Hidalgo,2006,3,1476.39,1616.34,Estatal
+13,Hidalgo,2006,4,1423.15,1513.03,Estatal
+13,Hidalgo,2007,1,1433.88,1513.71,Estatal
+13,Hidalgo,2007,2,1461.09,1565.64,Estatal
+13,Hidalgo,2007,3,1387.44,1487.47,Estatal
+13,Hidalgo,2007,4,1465.87,1559.21,Estatal
+13,Hidalgo,2008,1,1331.81,1424.2,Estatal
+13,Hidalgo,2008,2,1405.95,1481.2,Estatal
+13,Hidalgo,2008,3,1418.57,1484.7,Estatal
+13,Hidalgo,2008,4,1302.43,1344.57,Estatal
+13,Hidalgo,2009,1,1349.42,1391.05,Estatal
+13,Hidalgo,2009,2,1346.21,1353.25,Estatal
+13,Hidalgo,2009,3,1350.26,1340.19,Estatal
+13,Hidalgo,2009,4,1343.52,1348.54,Estatal
+13,Hidalgo,2010,1,1265.88,1265.88,Estatal
+13,Hidalgo,2010,2,1371.14,1380.72,Estatal
+13,Hidalgo,2010,3,1394.37,1423.92,Estatal
+13,Hidalgo,2010,4,1339.35,1356.48,Estatal
+13,Hidalgo,2011,1,1315.43,1327.51,Estatal
+13,Hidalgo,2011,2,1353.83,1361.65,Estatal
+13,Hidalgo,2011,3,1356.2,1369.7,Estatal
+13,Hidalgo,2011,4,1400.69,1402.39,Estatal
+13,Hidalgo,2012,1,1312.9,1298.4,Estatal
+13,Hidalgo,2012,2,1481.57,1449.17,Estatal
+13,Hidalgo,2012,3,1433.26,1363.02,Estatal
+13,Hidalgo,2012,4,1403.3,1328.6,Estatal
+13,Hidalgo,2013,1,1328.97,1260.55,Estatal
+13,Hidalgo,2013,2,1471.03,1388.26,Estatal
+13,Hidalgo,2013,3,1392.99,1317.99,Estatal
+13,Hidalgo,2013,4,1421.09,1337.54,Estatal
+13,Hidalgo,2014,1,1420.34,1329.01,Estatal
+13,Hidalgo,2014,2,1386.5,1313.33,Estatal
+13,Hidalgo,2014,3,1398.86,1311.33,Estatal
+13,Hidalgo,2014,4,1361.9,1261.39,Estatal
+13,Hidalgo,2015,1,1422.21,1336.84,Estatal
+13,Hidalgo,2015,2,1446.24,1351.15,Estatal
+13,Hidalgo,2015,3,1438.6,1334,Estatal
+13,Hidalgo,2015,4,1475.82,1365.08,Estatal
+13,Hidalgo,2016,1,1420.44,1289.43,Estatal
+13,Hidalgo,2016,2,1397.35,1276.21,Estatal
+13,Hidalgo,2016,3,1493.8,1378.1,Estatal
+13,Hidalgo,2016,4,1450.87,1327.18,Estatal
+13,Hidalgo,2017,1,1277.09,1188.51,Estatal
+13,Hidalgo,2017,2,1345.49,1229.51,Estatal
+13,Hidalgo,2017,3,1369.6,1209.59,Estatal
+13,Hidalgo,2017,4,1298.26,1162.72,Estatal
+13,Hidalgo,2018,1,1316.12,1197.34,Estatal
+13,Hidalgo,2018,2,1331.98,1217.1,Estatal
+13,Hidalgo,2018,3,1394.32,1262.82,Estatal
+13,Hidalgo,2018,4,1358.02,1230.31,Estatal
+13,Hidalgo,2019,1,1409.75,1266.19,Estatal
+13,Hidalgo,2019,2,1380.93,1243,Estatal
+13,Hidalgo,2019,3,1341.07,1210.74,Estatal
+13,Hidalgo,2019,4,1312.81,1191.07,Estatal
+13,Hidalgo,2020,1,1408.05,1255.49,Estatal
+13,Hidalgo,2020,3,1178.79,1036.73,Estatal
+13,Hidalgo,2020,4,1304.03,1148.71,Estatal
+14,Jalisco,2005,1,1935.66,2166.47,Estatal
+14,Jalisco,2005,2,1980.04,2139.5,Estatal
+14,Jalisco,2005,3,1995.29,2169.52,Estatal
+14,Jalisco,2005,4,2007.78,2223.33,Estatal
+14,Jalisco,2006,1,2128.21,2331.52,Estatal
+14,Jalisco,2006,2,2159.6,2385.89,Estatal
+14,Jalisco,2006,3,2093.76,2283.77,Estatal
+14,Jalisco,2006,4,2063.64,2193.2,Estatal
+14,Jalisco,2007,1,2076.66,2190.45,Estatal
+14,Jalisco,2007,2,2192.8,2343.13,Estatal
+14,Jalisco,2007,3,2165.28,2314.64,Estatal
+14,Jalisco,2007,4,2192.77,2325.68,Estatal
+14,Jalisco,2008,1,2214.59,2358.35,Estatal
+14,Jalisco,2008,2,2253.87,2366.82,Estatal
+14,Jalisco,2008,3,2081.45,2172.74,Estatal
+14,Jalisco,2008,4,2008.66,2070.87,Estatal
+14,Jalisco,2009,1,1937.52,1992.95,Estatal
+14,Jalisco,2009,2,1941.51,1950.47,Estatal
+14,Jalisco,2009,3,1874.98,1860.46,Estatal
+14,Jalisco,2009,4,1907.22,1912.92,Estatal
+14,Jalisco,2010,1,1829.41,1829.41,Estatal
+14,Jalisco,2010,2,1917.71,1927.6,Estatal
+14,Jalisco,2010,3,1849.17,1881.15,Estatal
+14,Jalisco,2010,4,1848.07,1866.75,Estatal
+14,Jalisco,2011,1,1914.05,1926.18,Estatal
+14,Jalisco,2011,2,1866.49,1872.32,Estatal
+14,Jalisco,2011,3,1849.64,1862.17,Estatal
+14,Jalisco,2011,4,1835.88,1835.52,Estatal
+14,Jalisco,2012,1,1887.88,1866.26,Estatal
+14,Jalisco,2012,2,1981,1936.26,Estatal
+14,Jalisco,2012,3,1941.16,1847.49,Estatal
+14,Jalisco,2012,4,1923.46,1822.26,Estatal
+14,Jalisco,2013,1,1959.04,1858.28,Estatal
+14,Jalisco,2013,2,1972.91,1862.35,Estatal
+14,Jalisco,2013,3,1954.22,1846.94,Estatal
+14,Jalisco,2013,4,1912.81,1800.26,Estatal
+14,Jalisco,2014,1,1887.04,1761.99,Estatal
+14,Jalisco,2014,2,1940.6,1829.45,Estatal
+14,Jalisco,2014,3,1929.57,1800.77,Estatal
+14,Jalisco,2014,4,1835.26,1695.81,Estatal
+14,Jalisco,2015,1,1909.98,1794.15,Estatal
+14,Jalisco,2015,2,1905.05,1779.95,Estatal
+14,Jalisco,2015,3,1990.76,1846.18,Estatal
+14,Jalisco,2015,4,2007.01,1856.99,Estatal
+14,Jalisco,2016,1,2041.07,1857.74,Estatal
+14,Jalisco,2016,2,2012.93,1840.05,Estatal
+14,Jalisco,2016,3,2061.72,1903.41,Estatal
+14,Jalisco,2016,4,2059.55,1887.17,Estatal
+14,Jalisco,2017,1,2165.81,2014.37,Estatal
+14,Jalisco,2017,2,2083.08,1904.54,Estatal
+14,Jalisco,2017,3,2118.16,1874.27,Estatal
+14,Jalisco,2017,4,2088.7,1872.61,Estatal
+14,Jalisco,2018,1,2152.51,1958.11,Estatal
+14,Jalisco,2018,2,2098.19,1915.87,Estatal
+14,Jalisco,2018,3,2115.77,1913.93,Estatal
+14,Jalisco,2018,4,2114.26,1916.55,Estatal
+14,Jalisco,2019,1,2194.42,1971.86,Estatal
+14,Jalisco,2019,2,2235.22,2011.93,Estatal
+14,Jalisco,2019,3,2163.83,1952.96,Estatal
+14,Jalisco,2019,4,2244.24,2035.05,Estatal
+14,Jalisco,2020,1,2349.72,2097.32,Estatal
+14,Jalisco,2020,3,2202.7,1942.97,Estatal
+14,Jalisco,2020,4,2240.64,1979.75,Estatal
+15,Estado de México,2005,1,1660.71,1858.93,Estatal
+15,Estado de México,2005,2,1764.36,1906.33,Estatal
+15,Estado de México,2005,3,1809.45,1967.39,Estatal
+15,Estado de México,2005,4,1780.53,1972.2,Estatal
+15,Estado de México,2006,1,1876.65,2056.07,Estatal
+15,Estado de México,2006,2,1841.47,2034.44,Estatal
+15,Estado de México,2006,3,1900.63,2072.83,Estatal
+15,Estado de México,2006,4,1804.75,1918.04,Estatal
+15,Estado de México,2007,1,1775.29,1872.54,Estatal
+15,Estado de México,2007,2,1871.12,1999.28,Estatal
+15,Estado de México,2007,3,1787.33,1910.56,Estatal
+15,Estado de México,2007,4,1739.7,1845.44,Estatal
+15,Estado de México,2008,1,1756.66,1870.83,Estatal
+15,Estado de México,2008,2,1822.58,1914.26,Estatal
+15,Estado de México,2008,3,1769.67,1847.39,Estatal
+15,Estado de México,2008,4,1654.22,1705.52,Estatal
+15,Estado de México,2009,1,1762.54,1812.88,Estatal
+15,Estado de México,2009,2,1800.07,1808.36,Estatal
+15,Estado de México,2009,3,1764.36,1750.69,Estatal
+15,Estado de México,2009,4,1702.72,1707.85,Estatal
+15,Estado de México,2010,1,1688.69,1688.69,Estatal
+15,Estado de México,2010,2,1783.3,1792.43,Estatal
+15,Estado de México,2010,3,1792.69,1823.97,Estatal
+15,Estado de México,2010,4,1724.42,1741.93,Estatal
+15,Estado de México,2011,1,1807.68,1819.29,Estatal
+15,Estado de México,2011,2,1846.2,1852.21,Estatal
+15,Estado de México,2011,3,1912.29,1925.13,Estatal
+15,Estado de México,2011,4,1753,1752.57,Estatal
+15,Estado de México,2012,1,1792.6,1772.04,Estatal
+15,Estado de México,2012,2,1803.47,1762.77,Estatal
+15,Estado de México,2012,3,1743.04,1658.97,Estatal
+15,Estado de México,2012,4,1674.85,1586.69,Estatal
+15,Estado de México,2013,1,1756.82,1666.46,Estatal
+15,Estado de México,2013,2,1670.48,1576.87,Estatal
+15,Estado de México,2013,3,1562.42,1476.74,Estatal
+15,Estado de México,2013,4,1737.4,1635.17,Estatal
+15,Estado de México,2014,1,1647.16,1538.1,Estatal
+15,Estado de México,2014,2,1574.77,1484.59,Estatal
+15,Estado de México,2014,3,1591.13,1484.86,Estatal
+15,Estado de México,2014,4,1526.03,1409.94,Estatal
+15,Estado de México,2015,1,1568.12,1473.06,Estatal
+15,Estado de México,2015,2,1515.9,1416.36,Estatal
+15,Estado de México,2015,3,1574.18,1459.87,Estatal
+15,Estado de México,2015,4,1614.74,1494.04,Estatal
+15,Estado de México,2016,1,1595.72,1452.49,Estatal
+15,Estado de México,2016,2,1611.55,1473.15,Estatal
+15,Estado de México,2016,3,1727.95,1595.31,Estatal
+15,Estado de México,2016,4,1636.89,1499.9,Estatal
+15,Estado de México,2017,1,1651.25,1535.75,Estatal
+15,Estado de México,2017,2,1641.07,1500.41,Estatal
+15,Estado de México,2017,3,1673.58,1481.18,Estatal
+15,Estado de México,2017,4,1633.18,1464.26,Estatal
+15,Estado de México,2018,1,1698.21,1544.84,Estatal
+15,Estado de México,2018,2,1725.24,1575.32,Estatal
+15,Estado de México,2018,3,1689.06,1527.91,Estatal
+15,Estado de México,2018,4,1670.68,1514.45,Estatal
+15,Estado de México,2019,1,1704.68,1531.84,Estatal
+15,Estado de México,2019,2,1711.22,1540.28,Estatal
+15,Estado de México,2019,3,1667.89,1505.33,Estatal
+15,Estado de México,2019,4,1720.85,1560.4,Estatal
+15,Estado de México,2020,1,1785.51,1593.8,Estatal
+15,Estado de México,2020,3,1494.13,1317.71,Estatal
+15,Estado de México,2020,4,1659.94,1466.74,Estatal
+16,Michoacán,2005,1,1472.69,1651.72,Estatal
+16,Michoacán,2005,2,1417.42,1533.01,Estatal
+16,Michoacán,2005,3,1414.28,1539.81,Estatal
+16,Michoacán,2005,4,1476.4,1638.24,Estatal
+16,Michoacán,2006,1,1365.15,1497.74,Estatal
+16,Michoacán,2006,2,1496.41,1656.99,Estatal
+16,Michoacán,2006,3,1501.83,1640.66,Estatal
+16,Michoacán,2006,4,1566.27,1664.8,Estatal
+16,Michoacán,2007,1,1521.96,1605.85,Estatal
+16,Michoacán,2007,2,1541.6,1649.07,Estatal
+16,Michoacán,2007,3,1502.87,1608.4,Estatal
+16,Michoacán,2007,4,1550.62,1646.33,Estatal
+16,Michoacán,2008,1,1502.54,1602.73,Estatal
+16,Michoacán,2008,2,1658.11,1743.43,Estatal
+16,Michoacán,2008,3,1543.06,1612.35,Estatal
+16,Michoacán,2008,4,1578.4,1628.07,Estatal
+16,Michoacán,2009,1,1587.52,1634.6,Estatal
+16,Michoacán,2009,2,1550.51,1558.06,Estatal
+16,Michoacán,2009,3,1545.43,1533.66,Estatal
+16,Michoacán,2009,4,1553.08,1558.29,Estatal
+16,Michoacán,2010,1,1526.29,1526.29,Estatal
+16,Michoacán,2010,2,1505.93,1515.08,Estatal
+16,Michoacán,2010,3,1576.3,1606.4,Estatal
+16,Michoacán,2010,4,1535.23,1552.28,Estatal
+16,Michoacán,2011,1,1595.65,1607.78,Estatal
+16,Michoacán,2011,2,1616.81,1623.71,Estatal
+16,Michoacán,2011,3,1586.94,1599.45,Estatal
+16,Michoacán,2011,4,1608.48,1608.99,Estatal
+16,Michoacán,2012,1,1566.35,1548.64,Estatal
+16,Michoacán,2012,2,1651.5,1614.72,Estatal
+16,Michoacán,2012,3,1573.64,1497.24,Estatal
+16,Michoacán,2012,4,1505.31,1425.7,Estatal
+16,Michoacán,2013,1,1592.97,1511,Estatal
+16,Michoacán,2013,2,1530.8,1444.85,Estatal
+16,Michoacán,2013,3,1445.92,1367.17,Estatal
+16,Michoacán,2013,4,1453.02,1367.55,Estatal
+16,Michoacán,2014,1,1494.48,1396.75,Estatal
+16,Michoacán,2014,2,1454.74,1373.79,Estatal
+16,Michoacán,2014,3,1459.59,1364.27,Estatal
+16,Michoacán,2014,4,1453.17,1343.94,Estatal
+16,Michoacán,2015,1,1485.2,1395.47,Estatal
+16,Michoacán,2015,2,1488.31,1390.53,Estatal
+16,Michoacán,2015,3,1498.97,1390.06,Estatal
+16,Michoacán,2015,4,1468.36,1358.46,Estatal
+16,Michoacán,2016,1,1508.88,1372.3,Estatal
+16,Michoacán,2016,2,1534.07,1401.93,Estatal
+16,Michoacán,2016,3,1521.8,1404.63,Estatal
+16,Michoacán,2016,4,1486.31,1360.96,Estatal
+16,Michoacán,2017,1,1576.27,1466.35,Estatal
+16,Michoacán,2017,2,1486.17,1358.56,Estatal
+16,Michoacán,2017,3,1485.05,1313.32,Estatal
+16,Michoacán,2017,4,1517.54,1359.86,Estatal
+16,Michoacán,2018,1,1567.63,1426.09,Estatal
+16,Michoacán,2018,2,1622.09,1481.63,Estatal
+16,Michoacán,2018,3,1586.73,1436.16,Estatal
+16,Michoacán,2018,4,1595.26,1445.63,Estatal
+16,Michoacán,2019,1,1746.96,1569.42,Estatal
+16,Michoacán,2019,2,1598.31,1438.66,Estatal
+16,Michoacán,2019,3,1679.06,1515.64,Estatal
+16,Michoacán,2019,4,1658.1,1503.94,Estatal
+16,Michoacán,2020,1,1794.63,1600.93,Estatal
+16,Michoacán,2020,3,1712.04,1508.29,Estatal
+16,Michoacán,2020,4,1705.48,1504.46,Estatal
+17,Morelos,2005,1,1511.11,1693.84,Estatal
+17,Morelos,2005,2,1512.95,1635.34,Estatal
+17,Morelos,2005,3,1556.48,1693.79,Estatal
+17,Morelos,2005,4,1671.38,1853.03,Estatal
+17,Morelos,2006,1,1516.06,1662.57,Estatal
+17,Morelos,2006,2,1570.92,1738.06,Estatal
+17,Morelos,2006,3,1665.7,1818.03,Estatal
+17,Morelos,2006,4,1645.46,1748.89,Estatal
+17,Morelos,2007,1,1542.42,1627.26,Estatal
+17,Morelos,2007,2,1720.39,1839.12,Estatal
+17,Morelos,2007,3,1638.4,1752,Estatal
+17,Morelos,2007,4,1662.08,1763.6,Estatal
+17,Morelos,2008,1,1609.06,1714.32,Estatal
+17,Morelos,2008,2,1535.63,1613.81,Estatal
+17,Morelos,2008,3,1516.85,1584.4,Estatal
+17,Morelos,2008,4,1450.42,1495.93,Estatal
+17,Morelos,2009,1,1423.71,1465.11,Estatal
+17,Morelos,2009,2,1510.85,1518.09,Estatal
+17,Morelos,2009,3,1511.26,1499.69,Estatal
+17,Morelos,2009,4,1439.07,1443.69,Estatal
+17,Morelos,2010,1,1427.74,1427.74,Estatal
+17,Morelos,2010,2,1472.17,1480.29,Estatal
+17,Morelos,2010,3,1462.79,1489.45,Estatal
+17,Morelos,2010,4,1459.9,1475.18,Estatal
+17,Morelos,2011,1,1395.27,1404.93,Estatal
+17,Morelos,2011,2,1491.34,1496.89,Estatal
+17,Morelos,2011,3,1521.12,1531.95,Estatal
+17,Morelos,2011,4,1402.19,1402.3,Estatal
+17,Morelos,2012,1,1486.29,1469.39,Estatal
+17,Morelos,2012,2,1514.58,1480.61,Estatal
+17,Morelos,2012,3,1416.57,1348.04,Estatal
+17,Morelos,2012,4,1413.03,1338.46,Estatal
+17,Morelos,2013,1,1326.79,1258.53,Estatal
+17,Morelos,2013,2,1356.6,1280.52,Estatal
+17,Morelos,2013,3,1332.94,1260.08,Estatal
+17,Morelos,2013,4,1341.83,1262.88,Estatal
+17,Morelos,2014,1,1245.59,1163.4,Estatal
+17,Morelos,2014,2,1271.03,1199.7,Estatal
+17,Morelos,2014,3,1238.51,1156.89,Estatal
+17,Morelos,2014,4,1242.5,1148.89,Estatal
+17,Morelos,2015,1,1298.1,1219.5,Estatal
+17,Morelos,2015,2,1265.31,1182.21,Estatal
+17,Morelos,2015,3,1193.62,1106.9,Estatal
+17,Morelos,2015,4,1156.94,1070.37,Estatal
+17,Morelos,2016,1,1283.65,1167.88,Estatal
+17,Morelos,2016,2,1230.13,1124.27,Estatal
+17,Morelos,2016,3,1280.97,1182.49,Estatal
+17,Morelos,2016,4,1236.75,1132.86,Estatal
+17,Morelos,2017,1,1307.89,1216.55,Estatal
+17,Morelos,2017,2,1265.09,1156.55,Estatal
+17,Morelos,2017,3,1261.11,1115.66,Estatal
+17,Morelos,2017,4,1223.1,1096.3,Estatal
+17,Morelos,2018,1,1235.95,1124.35,Estatal
+17,Morelos,2018,2,1227.57,1121.04,Estatal
+17,Morelos,2018,3,1183.82,1071.15,Estatal
+17,Morelos,2018,4,1169.6,1060.08,Estatal
+17,Morelos,2019,1,1212.71,1089.64,Estatal
+17,Morelos,2019,2,1181.91,1063.85,Estatal
+17,Morelos,2019,3,1262.44,1139.5,Estatal
+17,Morelos,2019,4,1197.41,1085.95,Estatal
+17,Morelos,2020,1,1365.18,1218.31,Estatal
+17,Morelos,2020,3,1270.18,1120.26,Estatal
+17,Morelos,2020,4,1332.41,1176.85,Estatal
+18,Nayarit,2005,1,1741.09,1954.63,Estatal
+18,Nayarit,2005,2,1697.73,1836.67,Estatal
+18,Nayarit,2005,3,1654.87,1803.34,Estatal
+18,Nayarit,2005,4,1780.45,1978.25,Estatal
+18,Nayarit,2006,1,1743.04,1914.01,Estatal
+18,Nayarit,2006,2,1837.09,2036.66,Estatal
+18,Nayarit,2006,3,1902.8,2080.46,Estatal
+18,Nayarit,2006,4,1855.96,1972.89,Estatal
+18,Nayarit,2007,1,1935.73,2042.87,Estatal
+18,Nayarit,2007,2,1916.42,2051.2,Estatal
+18,Nayarit,2007,3,1874.09,2006.28,Estatal
+18,Nayarit,2007,4,1936.2,2056.73,Estatal
+18,Nayarit,2008,1,2055.32,2192.72,Estatal
+18,Nayarit,2008,2,1958.96,2060.56,Estatal
+18,Nayarit,2008,3,1949.24,2037.72,Estatal
+18,Nayarit,2008,4,1909.55,1970.04,Estatal
+18,Nayarit,2009,1,1971.5,2030.09,Estatal
+18,Nayarit,2009,2,1959.14,1968.73,Estatal
+18,Nayarit,2009,3,1884.1,1869.74,Estatal
+18,Nayarit,2009,4,1869.87,1876.16,Estatal
+18,Nayarit,2010,1,1821.33,1821.33,Estatal
+18,Nayarit,2010,2,1868.16,1879.39,Estatal
+18,Nayarit,2010,3,1814.28,1848.88,Estatal
+18,Nayarit,2010,4,1784.77,1805.03,Estatal
+18,Nayarit,2011,1,1808.39,1822.49,Estatal
+18,Nayarit,2011,2,1732.35,1739.86,Estatal
+18,Nayarit,2011,3,1706.92,1720.66,Estatal
+18,Nayarit,2011,4,1742.29,1742.92,Estatal
+18,Nayarit,2012,1,1741.27,1721.65,Estatal
+18,Nayarit,2012,2,1750.9,1711.98,Estatal
+18,Nayarit,2012,3,1741.57,1656.96,Estatal
+18,Nayarit,2012,4,1741.91,1649.66,Estatal
+18,Nayarit,2013,1,1874.59,1778.13,Estatal
+18,Nayarit,2013,2,1792.82,1692.18,Estatal
+18,Nayarit,2013,3,1738.59,1643.97,Estatal
+18,Nayarit,2013,4,1795.35,1689.74,Estatal
+18,Nayarit,2014,1,1797.69,1680.17,Estatal
+18,Nayarit,2014,2,1738.98,1642.78,Estatal
+18,Nayarit,2014,3,1762.55,1648.15,Estatal
+18,Nayarit,2014,4,1711.95,1583.12,Estatal
+18,Nayarit,2015,1,1753.13,1647.31,Estatal
+18,Nayarit,2015,2,1768.65,1652.45,Estatal
+18,Nayarit,2015,3,1721.56,1596.48,Estatal
+18,Nayarit,2015,4,1762.41,1630.51,Estatal
+18,Nayarit,2016,1,1835.81,1669.44,Estatal
+18,Nayarit,2016,2,1811.56,1655.36,Estatal
+18,Nayarit,2016,3,1857.72,1714.53,Estatal
+18,Nayarit,2016,4,1826.09,1671.73,Estatal
+18,Nayarit,2017,1,1865.45,1735.53,Estatal
+18,Nayarit,2017,2,1844.67,1686.18,Estatal
+18,Nayarit,2017,3,1809.73,1600.16,Estatal
+18,Nayarit,2017,4,1953.36,1750.58,Estatal
+18,Nayarit,2018,1,1948.26,1772.35,Estatal
+18,Nayarit,2018,2,1969.95,1799.32,Estatal
+18,Nayarit,2018,3,1927.1,1744.01,Estatal
+18,Nayarit,2018,4,1850.97,1677.54,Estatal
+18,Nayarit,2019,1,1922.21,1727.03,Estatal
+18,Nayarit,2019,2,1884.21,1696,Estatal
+18,Nayarit,2019,3,1836.36,1657.55,Estatal
+18,Nayarit,2019,4,1845.23,1673.4,Estatal
+18,Nayarit,2020,1,2002.4,1786.71,Estatal
+18,Nayarit,2020,3,2206.8,1944.97,Estatal
+18,Nayarit,2020,4,2171.81,1916.24,Estatal
+19,Nuevo León,2005,1,2753.52,3077.33,Estatal
+19,Nuevo León,2005,2,2837.69,3063.9,Estatal
+19,Nuevo León,2005,3,2894.13,3144.13,Estatal
+19,Nuevo León,2005,4,2863.09,3166.29,Estatal
+19,Nuevo León,2006,1,2885.72,3158.66,Estatal
+19,Nuevo León,2006,2,2925.66,3227.92,Estatal
+19,Nuevo León,2006,3,3077.89,3354.17,Estatal
+19,Nuevo León,2006,4,2940.29,3124.57,Estatal
+19,Nuevo León,2007,1,2984.23,3147.11,Estatal
+19,Nuevo León,2007,2,2956.88,3157.44,Estatal
+19,Nuevo León,2007,3,3000.29,3204.51,Estatal
+19,Nuevo León,2007,4,3028.63,3210.16,Estatal
+19,Nuevo León,2008,1,2909.46,3095.83,Estatal
+19,Nuevo León,2008,2,2865.19,3006.86,Estatal
+19,Nuevo León,2008,3,2869.37,2993.38,Estatal
+19,Nuevo León,2008,4,2675.08,2757.19,Estatal
+19,Nuevo León,2009,1,2554.25,2626.1,Estatal
+19,Nuevo León,2009,2,2557.59,2569.09,Estatal
+19,Nuevo León,2009,3,2414.16,2395.3,Estatal
+19,Nuevo León,2009,4,2511.75,2518.91,Estatal
+19,Nuevo León,2010,1,2541.46,2541.46,Estatal
+19,Nuevo León,2010,2,2539.77,2551.69,Estatal
+19,Nuevo León,2010,3,2499.16,2540.59,Estatal
+19,Nuevo León,2010,4,2429.68,2452.85,Estatal
+19,Nuevo León,2011,1,2359.49,2373.23,Estatal
+19,Nuevo León,2011,2,2380.31,2386.49,Estatal
+19,Nuevo León,2011,3,2334.23,2348.22,Estatal
+19,Nuevo León,2011,4,2364.25,2362.78,Estatal
+19,Nuevo León,2012,1,2277.74,2251.38,Estatal
+19,Nuevo León,2012,2,2327.51,2274.49,Estatal
+19,Nuevo León,2012,3,2409.29,2293.59,Estatal
+19,Nuevo León,2012,4,2302.77,2181.89,Estatal
+19,Nuevo León,2013,1,2229.55,2114.89,Estatal
+19,Nuevo León,2013,2,2386.57,2252.93,Estatal
+19,Nuevo León,2013,3,2255.12,2130.94,Estatal
+19,Nuevo León,2013,4,2189.3,2060.46,Estatal
+19,Nuevo León,2014,1,2105.74,1965.6,Estatal
+19,Nuevo León,2014,2,2083.88,1962.68,Estatal
+19,Nuevo León,2014,3,2271.85,2118.64,Estatal
+19,Nuevo León,2014,4,2158.58,1993.53,Estatal
+19,Nuevo León,2015,1,2172.01,2040.12,Estatal
+19,Nuevo León,2015,2,2149.3,2008.19,Estatal
+19,Nuevo León,2015,3,2226.16,2064.53,Estatal
+19,Nuevo León,2015,4,2271.21,2101.58,Estatal
+19,Nuevo León,2016,1,2188.04,1992.5,Estatal
+19,Nuevo León,2016,2,2382.15,2177.82,Estatal
+19,Nuevo León,2016,3,2323.23,2145.1,Estatal
+19,Nuevo León,2016,4,2461.02,2255.9,Estatal
+19,Nuevo León,2017,1,2438.68,2267.87,Estatal
+19,Nuevo León,2017,2,2325.91,2126.75,Estatal
+19,Nuevo León,2017,3,2427.19,2149.01,Estatal
+19,Nuevo León,2017,4,2310.15,2071.47,Estatal
+19,Nuevo León,2018,1,2299.14,2091.47,Estatal
+19,Nuevo León,2018,2,2440.29,2227.98,Estatal
+19,Nuevo León,2018,3,2471.68,2235.3,Estatal
+19,Nuevo León,2018,4,2363.68,2142.91,Estatal
+19,Nuevo León,2019,1,2436.91,2190.02,Estatal
+19,Nuevo León,2019,2,2642.69,2378.69,Estatal
+19,Nuevo León,2019,3,2705.87,2442,Estatal
+19,Nuevo León,2019,4,2809.96,2547.74,Estatal
+19,Nuevo León,2020,1,2940.46,2625.35,Estatal
+19,Nuevo León,2020,3,2618.01,2310.32,Estatal
+19,Nuevo León,2020,4,2856.78,2526.36,Estatal
+20,Oaxaca,2005,1,1034.78,1164.31,Estatal
+20,Oaxaca,2005,2,1050.36,1137.36,Estatal
+20,Oaxaca,2005,3,1035.28,1129.46,Estatal
+20,Oaxaca,2005,4,1074.65,1195.97,Estatal
+20,Oaxaca,2006,1,1030.6,1132.42,Estatal
+20,Oaxaca,2006,2,1098.04,1219.08,Estatal
+20,Oaxaca,2006,3,1047.13,1145.73,Estatal
+20,Oaxaca,2006,4,1023.03,1087.61,Estatal
+20,Oaxaca,2007,1,1016.62,1073.13,Estatal
+20,Oaxaca,2007,2,1099.53,1177.66,Estatal
+20,Oaxaca,2007,3,1049.41,1124.89,Estatal
+20,Oaxaca,2007,4,1026.46,1091.32,Estatal
+20,Oaxaca,2008,1,1105.81,1182.09,Estatal
+20,Oaxaca,2008,2,1122.54,1182.56,Estatal
+20,Oaxaca,2008,3,1019.17,1066.4,Estatal
+20,Oaxaca,2008,4,985.87,1017.57,Estatal
+20,Oaxaca,2009,1,1028.98,1060.25,Estatal
+20,Oaxaca,2009,2,997.45,1002.53,Estatal
+20,Oaxaca,2009,3,996.55,989.08,Estatal
+20,Oaxaca,2009,4,981.67,985.17,Estatal
+20,Oaxaca,2010,1,1003.25,1003.25,Estatal
+20,Oaxaca,2010,2,1020.13,1026.95,Estatal
+20,Oaxaca,2010,3,974.04,993.75,Estatal
+20,Oaxaca,2010,4,1022.55,1035.04,Estatal
+20,Oaxaca,2011,1,1001.22,1009.91,Estatal
+20,Oaxaca,2011,2,1011.57,1017.01,Estatal
+20,Oaxaca,2011,3,1013.21,1022.62,Estatal
+20,Oaxaca,2011,4,1032.45,1033.5,Estatal
+20,Oaxaca,2012,1,1045.17,1033.57,Estatal
+20,Oaxaca,2012,2,1087.93,1064.08,Estatal
+20,Oaxaca,2012,3,1079.9,1027.06,Estatal
+20,Oaxaca,2012,4,1030.8,976.01,Estatal
+20,Oaxaca,2013,1,1022.96,970.31,Estatal
+20,Oaxaca,2013,2,984.85,929.48,Estatal
+20,Oaxaca,2013,3,996.42,942.52,Estatal
+20,Oaxaca,2013,4,906.2,852.9,Estatal
+20,Oaxaca,2014,1,983.96,920.39,Estatal
+20,Oaxaca,2014,2,946.19,895.55,Estatal
+20,Oaxaca,2014,3,928.36,869.52,Estatal
+20,Oaxaca,2014,4,923.29,854.75,Estatal
+20,Oaxaca,2015,1,933.87,877.74,Estatal
+20,Oaxaca,2015,2,962.17,898.91,Estatal
+20,Oaxaca,2015,3,955.31,885.86,Estatal
+20,Oaxaca,2015,4,1004.97,929.61,Estatal
+20,Oaxaca,2016,1,929.08,844.06,Estatal
+20,Oaxaca,2016,2,977.94,893.27,Estatal
+20,Oaxaca,2016,3,942.08,869.23,Estatal
+20,Oaxaca,2016,4,982.62,898.97,Estatal
+20,Oaxaca,2017,1,947.23,881.52,Estatal
+20,Oaxaca,2017,2,938.33,857.51,Estatal
+20,Oaxaca,2017,3,931.59,822.65,Estatal
+20,Oaxaca,2017,4,912.95,817.8,Estatal
+20,Oaxaca,2018,1,933.26,849.02,Estatal
+20,Oaxaca,2018,2,977.91,893.56,Estatal
+20,Oaxaca,2018,3,943.03,853.83,Estatal
+20,Oaxaca,2018,4,963.27,872.74,Estatal
+20,Oaxaca,2019,1,1031.56,926.54,Estatal
+20,Oaxaca,2019,2,1016.43,914.9,Estatal
+20,Oaxaca,2019,3,1022.45,923.04,Estatal
+20,Oaxaca,2019,4,1025.84,930.61,Estatal
+20,Oaxaca,2020,1,1098.89,979.92,Estatal
+20,Oaxaca,2020,3,1062.29,934.16,Estatal
+20,Oaxaca,2020,4,1129.19,993.87,Estatal
+21,Puebla,2005,1,1291.25,1446.53,Estatal
+21,Puebla,2005,2,1261.33,1363.64,Estatal
+21,Puebla,2005,3,1317,1433.71,Estatal
+21,Puebla,2005,4,1346.85,1493.54,Estatal
+21,Puebla,2006,1,1322.29,1450.22,Estatal
+21,Puebla,2006,2,1313.26,1452.91,Estatal
+21,Puebla,2006,3,1362.28,1487.83,Estatal
+21,Puebla,2006,4,1353.57,1438.7,Estatal
+21,Puebla,2007,1,1348.23,1422.48,Estatal
+21,Puebla,2007,2,1406.69,1504.34,Estatal
+21,Puebla,2007,3,1379.09,1475.19,Estatal
+21,Puebla,2007,4,1350.46,1433.2,Estatal
+21,Puebla,2008,1,1344.77,1433.81,Estatal
+21,Puebla,2008,2,1328.27,1396.06,Estatal
+21,Puebla,2008,3,1340.22,1399.96,Estatal
+21,Puebla,2008,4,1346.96,1389.46,Estatal
+21,Puebla,2009,1,1286.18,1323.86,Estatal
+21,Puebla,2009,2,1236.82,1242.74,Estatal
+21,Puebla,2009,3,1261.66,1252,Estatal
+21,Puebla,2009,4,1247.78,1251.85,Estatal
+21,Puebla,2010,1,1235.62,1235.62,Estatal
+21,Puebla,2010,2,1297.6,1304.9,Estatal
+21,Puebla,2010,3,1335.79,1360.86,Estatal
+21,Puebla,2010,4,1243.43,1257.17,Estatal
+21,Puebla,2011,1,1287.86,1297.31,Estatal
+21,Puebla,2011,2,1274.16,1279.28,Estatal
+21,Puebla,2011,3,1231.47,1240.98,Estatal
+21,Puebla,2011,4,1278.55,1278.82,Estatal
+21,Puebla,2012,1,1352.17,1336.91,Estatal
+21,Puebla,2012,2,1313.41,1284.09,Estatal
+21,Puebla,2012,3,1347.43,1282.14,Estatal
+21,Puebla,2012,4,1339.92,1269.13,Estatal
+21,Puebla,2013,1,1364.53,1294.33,Estatal
+21,Puebla,2013,2,1274.05,1202.56,Estatal
+21,Puebla,2013,3,1280.54,1210.64,Estatal
+21,Puebla,2013,4,1276.37,1201.29,Estatal
+21,Puebla,2014,1,1292.74,1208,Estatal
+21,Puebla,2014,2,1273.37,1201.98,Estatal
+21,Puebla,2014,3,1288.68,1204.31,Estatal
+21,Puebla,2014,4,1291.91,1194.41,Estatal
+21,Puebla,2015,1,1293.19,1215.03,Estatal
+21,Puebla,2015,2,1310.22,1224.15,Estatal
+21,Puebla,2015,3,1308.64,1213.57,Estatal
+21,Puebla,2015,4,1317.67,1219.08,Estatal
+21,Puebla,2016,1,1306.16,1188.05,Estatal
+21,Puebla,2016,2,1319.16,1205.59,Estatal
+21,Puebla,2016,3,1376.76,1270.83,Estatal
+21,Puebla,2016,4,1320.11,1208.86,Estatal
+21,Puebla,2017,1,1359.51,1264.66,Estatal
+21,Puebla,2017,2,1367.32,1249.9,Estatal
+21,Puebla,2017,3,1337.9,1183.3,Estatal
+21,Puebla,2017,4,1354.61,1213.95,Estatal
+21,Puebla,2018,1,1434.88,1305.31,Estatal
+21,Puebla,2018,2,1411.56,1289.26,Estatal
+21,Puebla,2018,3,1435.37,1299,Estatal
+21,Puebla,2018,4,1424.5,1290.96,Estatal
+21,Puebla,2019,1,1485.43,1334.57,Estatal
+21,Puebla,2019,2,1453.18,1308.03,Estatal
+21,Puebla,2019,3,1520.09,1372.07,Estatal
+21,Puebla,2019,4,1551.15,1406.8,Estatal
+21,Puebla,2020,1,1613.21,1439.4,Estatal
+21,Puebla,2020,3,1308.66,1153.69,Estatal
+21,Puebla,2020,4,1357.11,1197.97,Estatal
+22,Querétaro,2005,1,1808.04,2026.91,Estatal
+22,Querétaro,2005,2,1887.79,2041.39,Estatal
+22,Querétaro,2005,3,1928.81,2100.31,Estatal
+22,Querétaro,2005,4,1968.53,2184.29,Estatal
+22,Querétaro,2006,1,1947.38,2136.12,Estatal
+22,Querétaro,2006,2,1918.11,2124.05,Estatal
+22,Querétaro,2006,3,2003.49,2188.35,Estatal
+22,Querétaro,2006,4,2024.93,2152.33,Estatal
+22,Querétaro,2007,1,1960.51,2068.54,Estatal
+22,Querétaro,2007,2,1959.94,2096.86,Estatal
+22,Querétaro,2007,3,1957.26,2094.45,Estatal
+22,Querétaro,2007,4,1886.04,2002.59,Estatal
+22,Querétaro,2008,1,1849.02,1972.32,Estatal
+22,Querétaro,2008,2,1905.15,2003.29,Estatal
+22,Querétaro,2008,3,1797.82,1878.77,Estatal
+22,Querétaro,2008,4,1784.89,1841.21,Estatal
+22,Querétaro,2009,1,1737.87,1788.78,Estatal
+22,Querétaro,2009,2,1634.77,1642.65,Estatal
+22,Querétaro,2009,3,1601,1588.79,Estatal
+22,Querétaro,2009,4,1662.35,1667.75,Estatal
+22,Querétaro,2010,1,1653.21,1653.21,Estatal
+22,Querétaro,2010,2,1692.61,1702.48,Estatal
+22,Querétaro,2010,3,1687.34,1719.15,Estatal
+22,Querétaro,2010,4,1592.31,1610.09,Estatal
+22,Querétaro,2011,1,1686.58,1699.26,Estatal
+22,Querétaro,2011,2,1767.77,1775.15,Estatal
+22,Querétaro,2011,3,1638.37,1651.65,Estatal
+22,Querétaro,2011,4,1647.02,1647.31,Estatal
+22,Querétaro,2012,1,1713.32,1693.93,Estatal
+22,Querétaro,2012,2,1723.57,1685.15,Estatal
+22,Querétaro,2012,3,1610.33,1532.05,Estatal
+22,Querétaro,2012,4,1531.43,1450.49,Estatal
+22,Querétaro,2013,1,1655.11,1569.94,Estatal
+22,Querétaro,2013,2,1592.73,1503.34,Estatal
+22,Querétaro,2013,3,1641.96,1552.4,Estatal
+22,Querétaro,2013,4,1624.37,1528.82,Estatal
+22,Querétaro,2014,1,1648.94,1540.83,Estatal
+22,Querétaro,2014,2,1602.93,1513.43,Estatal
+22,Querétaro,2014,3,1519.9,1421.06,Estatal
+22,Querétaro,2014,4,1558.52,1441.73,Estatal
+22,Querétaro,2015,1,1723.85,1619.7,Estatal
+22,Querétaro,2015,2,1720.98,1607.92,Estatal
+22,Querétaro,2015,3,1698.98,1575.53,Estatal
+22,Querétaro,2015,4,1678.5,1552.81,Estatal
+22,Querétaro,2016,1,1806.21,1642.34,Estatal
+22,Querétaro,2016,2,1720.28,1571.91,Estatal
+22,Querétaro,2016,3,1752.9,1617.86,Estatal
+22,Querétaro,2016,4,1696.49,1553.33,Estatal
+22,Querétaro,2017,1,1764.1,1641.1,Estatal
+22,Querétaro,2017,2,1628.69,1488.81,Estatal
+22,Querétaro,2017,3,1571.22,1388.98,Estatal
+22,Querétaro,2017,4,1671.08,1497.52,Estatal
+22,Querétaro,2018,1,1926.64,1752.68,Estatal
+22,Querétaro,2018,2,1903.28,1738.46,Estatal
+22,Querétaro,2018,3,1852.12,1676.27,Estatal
+22,Querétaro,2018,4,1863.11,1688.45,Estatal
+22,Querétaro,2019,1,1946.52,1748.82,Estatal
+22,Querétaro,2019,2,1848.78,1664.1,Estatal
+22,Querétaro,2019,3,1773.88,1601.22,Estatal
+22,Querétaro,2019,4,1861.93,1688.8,Estatal
+22,Querétaro,2020,1,2022.13,1804.05,Estatal
+22,Querétaro,2020,3,1730.97,1524.89,Estatal
+22,Querétaro,2020,4,1942.45,1713.32,Estatal
+23,Quintana Roo,2005,1,2683.94,3000.86,Estatal
+23,Quintana Roo,2005,2,2650.08,2861.92,Estatal
+23,Quintana Roo,2005,3,2863.97,3112.53,Estatal
+23,Quintana Roo,2005,4,2893.69,3201.72,Estatal
+23,Quintana Roo,2006,1,2882.75,3156.78,Estatal
+23,Quintana Roo,2006,2,2948.12,3254.64,Estatal
+23,Quintana Roo,2006,3,3293.23,3590.36,Estatal
+23,Quintana Roo,2006,4,3039.15,3229.78,Estatal
+23,Quintana Roo,2007,1,3069.53,3237.48,Estatal
+23,Quintana Roo,2007,2,3047.24,3255.26,Estatal
+23,Quintana Roo,2007,3,3016.34,3222.9,Estatal
+23,Quintana Roo,2007,4,3044.67,3228.41,Estatal
+23,Quintana Roo,2008,1,3206.06,3413.53,Estatal
+23,Quintana Roo,2008,2,3184.63,3343.49,Estatal
+23,Quintana Roo,2008,3,3101.14,3236.38,Estatal
+23,Quintana Roo,2008,4,2716.19,2799.85,Estatal
+23,Quintana Roo,2009,1,2878.2,2960.04,Estatal
+23,Quintana Roo,2009,2,2720.63,2733.05,Estatal
+23,Quintana Roo,2009,3,2539.65,2519.87,Estatal
+23,Quintana Roo,2009,4,2456.36,2463.52,Estatal
+23,Quintana Roo,2010,1,2583.28,2583.28,Estatal
+23,Quintana Roo,2010,2,2654.92,2667.9,Estatal
+23,Quintana Roo,2010,3,2492.26,2534.52,Estatal
+23,Quintana Roo,2010,4,2450.19,2474.18,Estatal
+23,Quintana Roo,2011,1,2513.27,2528.9,Estatal
+23,Quintana Roo,2011,2,2520.15,2527.62,Estatal
+23,Quintana Roo,2011,3,2436.18,2451.51,Estatal
+23,Quintana Roo,2011,4,2476.42,2475.22,Estatal
+23,Quintana Roo,2012,1,2579.85,2550.08,Estatal
+23,Quintana Roo,2012,2,2493.03,2436.35,Estatal
+23,Quintana Roo,2012,3,2427.93,2311.11,Estatal
+23,Quintana Roo,2012,4,2343.81,2220.54,Estatal
+23,Quintana Roo,2013,1,2436.94,2311.61,Estatal
+23,Quintana Roo,2013,2,2410.4,2275.35,Estatal
+23,Quintana Roo,2013,3,2529.48,2390.49,Estatal
+23,Quintana Roo,2013,4,2220.51,2089.84,Estatal
+23,Quintana Roo,2014,1,2178.98,2033.98,Estatal
+23,Quintana Roo,2014,2,2135.69,2011.47,Estatal
+23,Quintana Roo,2014,3,2097.54,1955.75,Estatal
+23,Quintana Roo,2014,4,2112.77,1951.14,Estatal
+23,Quintana Roo,2015,1,2206.65,2072.57,Estatal
+23,Quintana Roo,2015,2,2346.98,2192.9,Estatal
+23,Quintana Roo,2015,3,2289.22,2123.02,Estatal
+23,Quintana Roo,2015,4,2288.02,2117.14,Estatal
+23,Quintana Roo,2016,1,2370.59,2158.76,Estatal
+23,Quintana Roo,2016,2,2434.55,2225.67,Estatal
+23,Quintana Roo,2016,3,2428.65,2242.39,Estatal
+23,Quintana Roo,2016,4,2377.58,2179.16,Estatal
+23,Quintana Roo,2017,1,2312.73,2150.82,Estatal
+23,Quintana Roo,2017,2,2303.67,2106.42,Estatal
+23,Quintana Roo,2017,3,2396.26,2121.46,Estatal
+23,Quintana Roo,2017,4,2358.52,2114.81,Estatal
+23,Quintana Roo,2018,1,2274.43,2068.99,Estatal
+23,Quintana Roo,2018,2,2415.71,2205.48,Estatal
+23,Quintana Roo,2018,3,2458.01,2222.92,Estatal
+23,Quintana Roo,2018,4,2412.73,2187.41,Estatal
+23,Quintana Roo,2019,1,2479.82,2228.54,Estatal
+23,Quintana Roo,2019,2,2432.45,2189.46,Estatal
+23,Quintana Roo,2019,3,2344.75,2116.1,Estatal
+23,Quintana Roo,2019,4,2396.15,2172.55,Estatal
+23,Quintana Roo,2020,1,2345.92,2094.46,Estatal
+23,Quintana Roo,2020,3,1703.02,1503.12,Estatal
+23,Quintana Roo,2020,4,1942.81,1718.17,Estatal
+24,San Luis Potosí,2005,1,1575.86,1766.63,Estatal
+24,San Luis Potosí,2005,2,1552.22,1678.32,Estatal
+24,San Luis Potosí,2005,3,1549.66,1686.72,Estatal
+24,San Luis Potosí,2005,4,1629.02,1806.66,Estatal
+24,San Luis Potosí,2006,1,1654.66,1816.1,Estatal
+24,San Luis Potosí,2006,2,1640.5,1817.25,Estatal
+24,San Luis Potosí,2006,3,1678.3,1833.41,Estatal
+24,San Luis Potosí,2006,4,1588.43,1688.34,Estatal
+24,San Luis Potosí,2007,1,1524.39,1608.34,Estatal
+24,San Luis Potosí,2007,2,1570.81,1680.14,Estatal
+24,San Luis Potosí,2007,3,1630.19,1743.87,Estatal
+24,San Luis Potosí,2007,4,1567.86,1664.5,Estatal
+24,San Luis Potosí,2008,1,1564.23,1668.3,Estatal
+24,San Luis Potosí,2008,2,1604.65,1686.93,Estatal
+24,San Luis Potosí,2008,3,1570.37,1640.53,Estatal
+24,San Luis Potosí,2008,4,1524.04,1571.84,Estatal
+24,San Luis Potosí,2009,1,1497.54,1541.25,Estatal
+24,San Luis Potosí,2009,2,1503.65,1510.95,Estatal
+24,San Luis Potosí,2009,3,1429.42,1418.49,Estatal
+24,San Luis Potosí,2009,4,1367.35,1371.91,Estatal
+24,San Luis Potosí,2010,1,1384.37,1384.37,Estatal
+24,San Luis Potosí,2010,2,1429.15,1437.6,Estatal
+24,San Luis Potosí,2010,3,1433.04,1460.05,Estatal
+24,San Luis Potosí,2010,4,1314,1328.67,Estatal
+24,San Luis Potosí,2011,1,1287.95,1297.73,Estatal
+24,San Luis Potosí,2011,2,1350.7,1356.52,Estatal
+24,San Luis Potosí,2011,3,1322.57,1333,Estatal
+24,San Luis Potosí,2011,4,1296.89,1297.19,Estatal
+24,San Luis Potosí,2012,1,1284.71,1270.16,Estatal
+24,San Luis Potosí,2012,2,1290.12,1261.28,Estatal
+24,San Luis Potosí,2012,3,1298.55,1235.64,Estatal
+24,San Luis Potosí,2012,4,1377.85,1305.05,Estatal
+24,San Luis Potosí,2013,1,1278.2,1212.44,Estatal
+24,San Luis Potosí,2013,2,1337.5,1262.4,Estatal
+24,San Luis Potosí,2013,3,1355.53,1281.7,Estatal
+24,San Luis Potosí,2013,4,1366.72,1286.33,Estatal
+24,San Luis Potosí,2014,1,1310.7,1224.9,Estatal
+24,San Luis Potosí,2014,2,1335.08,1260.65,Estatal
+24,San Luis Potosí,2014,3,1291.03,1206.84,Estatal
+24,San Luis Potosí,2014,4,1307.41,1209.16,Estatal
+24,San Luis Potosí,2015,1,1306.32,1227.45,Estatal
+24,San Luis Potosí,2015,2,1331.7,1244.22,Estatal
+24,San Luis Potosí,2015,3,1326.23,1229.88,Estatal
+24,San Luis Potosí,2015,4,1415.46,1309.52,Estatal
+24,San Luis Potosí,2016,1,1378.89,1254.06,Estatal
+24,San Luis Potosí,2016,2,1428.94,1305.77,Estatal
+24,San Luis Potosí,2016,3,1501.46,1385.77,Estatal
+24,San Luis Potosí,2016,4,1308.08,1197.71,Estatal
+24,San Luis Potosí,2017,1,1443.7,1343.17,Estatal
+24,San Luis Potosí,2017,2,1471.84,1345.32,Estatal
+24,San Luis Potosí,2017,3,1559.43,1378.92,Estatal
+24,San Luis Potosí,2017,4,1452.23,1301.41,Estatal
+24,San Luis Potosí,2018,1,1503.19,1367.47,Estatal
+24,San Luis Potosí,2018,2,1571.91,1435.8,Estatal
+24,San Luis Potosí,2018,3,1527.18,1382.09,Estatal
+24,San Luis Potosí,2018,4,1553.8,1408.13,Estatal
+24,San Luis Potosí,2019,1,1541.17,1384.61,Estatal
+24,San Luis Potosí,2019,2,1555.28,1399.93,Estatal
+24,San Luis Potosí,2019,3,1568.65,1415.92,Estatal
+24,San Luis Potosí,2019,4,1594.45,1446.11,Estatal
+24,San Luis Potosí,2020,1,1691.59,1509.4,Estatal
+24,San Luis Potosí,2020,3,1510.26,1331.28,Estatal
+24,San Luis Potosí,2020,4,1563.59,1379.94,Estatal
+25,Sinaloa,2005,1,2085.84,2338.56,Estatal
+25,Sinaloa,2005,2,2100.58,2271.23,Estatal
+25,Sinaloa,2005,3,2136.66,2325.11,Estatal
+25,Sinaloa,2005,4,2305.31,2556.99,Estatal
+25,Sinaloa,2006,1,2285.48,2507.03,Estatal
+25,Sinaloa,2006,2,2309.25,2556.01,Estatal
+25,Sinaloa,2006,3,2239.41,2445.78,Estatal
+25,Sinaloa,2006,4,2235.28,2375.94,Estatal
+25,Sinaloa,2007,1,2311.86,2439.22,Estatal
+25,Sinaloa,2007,2,2351.52,2514.87,Estatal
+25,Sinaloa,2007,3,2337.91,2501.47,Estatal
+25,Sinaloa,2007,4,2317.81,2460.59,Estatal
+25,Sinaloa,2008,1,2280.36,2432.48,Estatal
+25,Sinaloa,2008,2,2270.89,2387.84,Estatal
+25,Sinaloa,2008,3,2293.4,2395.8,Estatal
+25,Sinaloa,2008,4,2222.44,2292.28,Estatal
+25,Sinaloa,2009,1,2177.24,2241.16,Estatal
+25,Sinaloa,2009,2,2182.36,2192.96,Estatal
+25,Sinaloa,2009,3,2105.71,2089.58,Estatal
+25,Sinaloa,2009,4,2122.46,2129.49,Estatal
+25,Sinaloa,2010,1,2149.83,2149.83,Estatal
+25,Sinaloa,2010,2,2138.32,2150.67,Estatal
+25,Sinaloa,2010,3,2097.03,2135.86,Estatal
+25,Sinaloa,2010,4,2047.02,2069.46,Estatal
+25,Sinaloa,2011,1,2080.14,2095.6,Estatal
+25,Sinaloa,2011,2,2075.93,2084.11,Estatal
+25,Sinaloa,2011,3,1940.9,1955.59,Estatal
+25,Sinaloa,2011,4,2000.08,2000.62,Estatal
+25,Sinaloa,2012,1,2007.85,1985.2,Estatal
+25,Sinaloa,2012,2,2077.88,2031.44,Estatal
+25,Sinaloa,2012,3,1902.48,1810.29,Estatal
+25,Sinaloa,2012,4,2074.49,1964.83,Estatal
+25,Sinaloa,2013,1,2133.26,2023.5,Estatal
+25,Sinaloa,2013,2,2047.63,1932.72,Estatal
+25,Sinaloa,2013,3,2064.24,1951.54,Estatal
+25,Sinaloa,2013,4,1989.21,1872.2,Estatal
+25,Sinaloa,2014,1,2029.66,1896.55,Estatal
+25,Sinaloa,2014,2,1840.25,1736.99,Estatal
+25,Sinaloa,2014,3,1904.84,1779.7,Estatal
+25,Sinaloa,2014,4,2035.48,1882.02,Estatal
+25,Sinaloa,2015,1,2081.05,1955.26,Estatal
+25,Sinaloa,2015,2,2120.91,1981.59,Estatal
+25,Sinaloa,2015,3,2202,2042.05,Estatal
+25,Sinaloa,2015,4,2172.87,2010.33,Estatal
+25,Sinaloa,2016,1,1979.65,1800.27,Estatal
+25,Sinaloa,2016,2,2009.05,1836,Estatal
+25,Sinaloa,2016,3,1939.64,1790.33,Estatal
+25,Sinaloa,2016,4,2067.07,1892.69,Estatal
+25,Sinaloa,2017,1,2063.99,1920.14,Estatal
+25,Sinaloa,2017,2,2064.15,1886.87,Estatal
+25,Sinaloa,2017,3,1984.72,1754.83,Estatal
+25,Sinaloa,2017,4,2027.53,1816.81,Estatal
+25,Sinaloa,2018,1,2148.6,1954.62,Estatal
+25,Sinaloa,2018,2,2074.46,1894.71,Estatal
+25,Sinaloa,2018,3,2018.91,1826.95,Estatal
+25,Sinaloa,2018,4,1993.6,1806.78,Estatal
+25,Sinaloa,2019,1,2038.76,1831.72,Estatal
+25,Sinaloa,2019,2,2016.37,1814.96,Estatal
+25,Sinaloa,2019,3,2092.84,1889.05,Estatal
+25,Sinaloa,2019,4,2144.46,1944.93,Estatal
+25,Sinaloa,2020,1,2153.61,1921.59,Estatal
+25,Sinaloa,2020,3,1764.09,1554.15,Estatal
+25,Sinaloa,2020,4,2030.43,1791.82,Estatal
+26,Sonora,2005,1,2325.5,2603,Estatal
+26,Sonora,2005,2,2258.58,2440.54,Estatal
+26,Sonora,2005,3,2263.31,2461.37,Estatal
+26,Sonora,2005,4,2340.36,2593,Estatal
+26,Sonora,2006,1,2445.25,2679.8,Estatal
+26,Sonora,2006,2,2482.13,2743.22,Estatal
+26,Sonora,2006,3,2364.82,2579.84,Estatal
+26,Sonora,2006,4,2456.58,2610.82,Estatal
+26,Sonora,2007,1,2348.46,2477.24,Estatal
+26,Sonora,2007,2,2383.75,2547.43,Estatal
+26,Sonora,2007,3,2420.62,2587.85,Estatal
+26,Sonora,2007,4,2347.6,2490.32,Estatal
+26,Sonora,2008,1,2462.76,2623.23,Estatal
+26,Sonora,2008,2,2482.46,2607.43,Estatal
+26,Sonora,2008,3,2371.1,2475.09,Estatal
+26,Sonora,2008,4,2151.25,2218.01,Estatal
+26,Sonora,2009,1,2226.14,2289.9,Estatal
+26,Sonora,2009,2,2216.51,2226.8,Estatal
+26,Sonora,2009,3,2114.81,2098.41,Estatal
+26,Sonora,2009,4,2021.3,2027.5,Estatal
+26,Sonora,2010,1,2250.69,2250.69,Estatal
+26,Sonora,2010,2,2082.78,2093.63,Estatal
+26,Sonora,2010,3,1870.69,1903.5,Estatal
+26,Sonora,2010,4,1982.95,2003.08,Estatal
+26,Sonora,2011,1,1905.66,1918.41,Estatal
+26,Sonora,2011,2,2021.54,2028.28,Estatal
+26,Sonora,2011,3,2019.15,2032.71,Estatal
+26,Sonora,2011,4,2028.87,2028.37,Estatal
+26,Sonora,2012,1,2041.42,2018.06,Estatal
+26,Sonora,2012,2,2018.01,1972.46,Estatal
+26,Sonora,2012,3,2054.74,1955.62,Estatal
+26,Sonora,2012,4,1960.96,1857.73,Estatal
+26,Sonora,2013,1,2433.78,2308.6,Estatal
+26,Sonora,2013,2,2191.18,2068.36,Estatal
+26,Sonora,2013,3,2207.01,2086,Estatal
+26,Sonora,2013,4,2198.7,2069.33,Estatal
+26,Sonora,2014,1,2285.54,2134.49,Estatal
+26,Sonora,2014,2,2292.34,2161.24,Estatal
+26,Sonora,2014,3,2214.39,2066.22,Estatal
+26,Sonora,2014,4,2195.47,2028.61,Estatal
+26,Sonora,2015,1,2136.44,2006.91,Estatal
+26,Sonora,2015,2,2269.76,2120.71,Estatal
+26,Sonora,2015,3,2121.32,1967.27,Estatal
+26,Sonora,2015,4,2171.79,2009.45,Estatal
+26,Sonora,2016,1,2147.16,1954.44,Estatal
+26,Sonora,2016,2,2272.79,2077.47,Estatal
+26,Sonora,2016,3,2137.67,1973.54,Estatal
+26,Sonora,2016,4,2229.5,2042.77,Estatal
+26,Sonora,2017,1,2247.69,2090.59,Estatal
+26,Sonora,2017,2,2224.88,2034.17,Estatal
+26,Sonora,2017,3,2143.75,1896.91,Estatal
+26,Sonora,2017,4,2210,1981.09,Estatal
+26,Sonora,2018,1,2179.49,1982.66,Estatal
+26,Sonora,2018,2,2266.37,2069.6,Estatal
+26,Sonora,2018,3,2184.17,1976,Estatal
+26,Sonora,2018,4,2290.39,2076.19,Estatal
+26,Sonora,2019,1,2220.29,1995.1,Estatal
+26,Sonora,2019,2,2213.76,1992.62,Estatal
+26,Sonora,2019,3,2303.92,2079.41,Estatal
+26,Sonora,2019,4,2295.61,2081.68,Estatal
+26,Sonora,2020,1,2282.56,2037.35,Estatal
+26,Sonora,2020,3,1858.69,1639.38,Estatal
+26,Sonora,2020,4,2237.62,1976.59,Estatal
+27,Tabasco,2005,1,1581.09,1777.04,Estatal
+27,Tabasco,2005,2,1588.35,1719.88,Estatal
+27,Tabasco,2005,3,1658.57,1808.5,Estatal
+27,Tabasco,2005,4,1703.97,1895.33,Estatal
+27,Tabasco,2006,1,1767.65,1942.49,Estatal
+27,Tabasco,2006,2,1762.07,1955.3,Estatal
+27,Tabasco,2006,3,1901.47,2079.44,Estatal
+27,Tabasco,2006,4,1892.41,2011.8,Estatal
+27,Tabasco,2007,1,1820.17,1921.08,Estatal
+27,Tabasco,2007,2,1844.67,1975.63,Estatal
+27,Tabasco,2007,3,1817.92,1947.91,Estatal
+27,Tabasco,2007,4,1862.72,1980.33,Estatal
+27,Tabasco,2008,1,1921.33,2052.66,Estatal
+27,Tabasco,2008,2,1899.62,1999.86,Estatal
+27,Tabasco,2008,3,1906.41,1994.48,Estatal
+27,Tabasco,2008,4,1783.66,1841.04,Estatal
+27,Tabasco,2009,1,1788.65,1843.04,Estatal
+27,Tabasco,2009,2,1750.86,1759.89,Estatal
+27,Tabasco,2009,3,1679.03,1666.47,Estatal
+27,Tabasco,2009,4,1780.55,1787.11,Estatal
+27,Tabasco,2010,1,1733.93,1733.93,Estatal
+27,Tabasco,2010,2,1734.61,1746.29,Estatal
+27,Tabasco,2010,3,1643.21,1677.17,Estatal
+27,Tabasco,2010,4,1608.83,1628.19,Estatal
+27,Tabasco,2011,1,1657.61,1672.58,Estatal
+27,Tabasco,2011,2,1572.38,1581.32,Estatal
+27,Tabasco,2011,3,1587.01,1602.23,Estatal
+27,Tabasco,2011,4,1626.21,1627.81,Estatal
+27,Tabasco,2012,1,1664.65,1646.26,Estatal
+27,Tabasco,2012,2,1662.87,1626.59,Estatal
+27,Tabasco,2012,3,1727.14,1642.62,Estatal
+27,Tabasco,2012,4,1719.65,1628.23,Estatal
+27,Tabasco,2013,1,1668.27,1582.4,Estatal
+27,Tabasco,2013,2,1636.8,1544.75,Estatal
+27,Tabasco,2013,3,1666.78,1576.84,Estatal
+27,Tabasco,2013,4,1715.52,1614.63,Estatal
+27,Tabasco,2014,1,1662.69,1555.32,Estatal
+27,Tabasco,2014,2,1629.07,1541.98,Estatal
+27,Tabasco,2014,3,1661.48,1556.5,Estatal
+27,Tabasco,2014,4,1658.99,1535.93,Estatal
+27,Tabasco,2015,1,1631.91,1533.73,Estatal
+27,Tabasco,2015,2,1613.41,1507.35,Estatal
+27,Tabasco,2015,3,1653.23,1533.04,Estatal
+27,Tabasco,2015,4,1593.55,1474.08,Estatal
+27,Tabasco,2016,1,1595.25,1449.08,Estatal
+27,Tabasco,2016,2,1561.12,1425.97,Estatal
+27,Tabasco,2016,3,1493.33,1377.77,Estatal
+27,Tabasco,2016,4,1408.59,1288.58,Estatal
+27,Tabasco,2017,1,1483.83,1380.84,Estatal
+27,Tabasco,2017,2,1429.88,1306.73,Estatal
+27,Tabasco,2017,3,1355.44,1197.06,Estatal
+27,Tabasco,2017,4,1364.73,1222.42,Estatal
+27,Tabasco,2018,1,1397.2,1271.1,Estatal
+27,Tabasco,2018,2,1437.35,1313.47,Estatal
+27,Tabasco,2018,3,1357.52,1229.37,Estatal
+27,Tabasco,2018,4,1355.9,1228.42,Estatal
+27,Tabasco,2019,1,1430.67,1285.03,Estatal
+27,Tabasco,2019,2,1523.01,1370.89,Estatal
+27,Tabasco,2019,3,1520.89,1373.05,Estatal
+27,Tabasco,2019,4,1550.94,1406.96,Estatal
+27,Tabasco,2020,1,1660.19,1480.68,Estatal
+27,Tabasco,2020,3,1276.9,1123.66,Estatal
+27,Tabasco,2020,4,1345.6,1186.07,Estatal
+28,Tamaulipas,2005,1,2422.32,2708.62,Estatal
+28,Tamaulipas,2005,2,2163.68,2337.11,Estatal
+28,Tamaulipas,2005,3,2216.99,2409.63,Estatal
+28,Tamaulipas,2005,4,2591.76,2867.92,Estatal
+28,Tamaulipas,2006,1,2366.7,2591.62,Estatal
+28,Tamaulipas,2006,2,2514.96,2776.84,Estatal
+28,Tamaulipas,2006,3,2496.45,2721.51,Estatal
+28,Tamaulipas,2006,4,2682.36,2850.56,Estatal
+28,Tamaulipas,2007,1,2345.74,2473.98,Estatal
+28,Tamaulipas,2007,2,2405.2,2569.31,Estatal
+28,Tamaulipas,2007,3,2436.82,2604.24,Estatal
+28,Tamaulipas,2007,4,2446.1,2594.05,Estatal
+28,Tamaulipas,2008,1,2394.27,2549.42,Estatal
+28,Tamaulipas,2008,2,2434.63,2556.42,Estatal
+28,Tamaulipas,2008,3,2389.2,2493.34,Estatal
+28,Tamaulipas,2008,4,2259.29,2329.01,Estatal
+28,Tamaulipas,2009,1,2312.83,2378.34,Estatal
+28,Tamaulipas,2009,2,2177.57,2187.52,Estatal
+28,Tamaulipas,2009,3,2119.07,2102.6,Estatal
+28,Tamaulipas,2009,4,2034.78,2040.78,Estatal
+28,Tamaulipas,2010,1,2022.48,2022.48,Estatal
+28,Tamaulipas,2010,2,1935.33,1944.84,Estatal
+28,Tamaulipas,2010,3,1847.08,1878.39,Estatal
+28,Tamaulipas,2010,4,1788.45,1806.08,Estatal
+28,Tamaulipas,2011,1,1922.8,1934.5,Estatal
+28,Tamaulipas,2011,2,1728.41,1733.29,Estatal
+28,Tamaulipas,2011,3,1759.93,1770.95,Estatal
+28,Tamaulipas,2011,4,1671.02,1670.27,Estatal
+28,Tamaulipas,2012,1,1738.97,1718.93,Estatal
+28,Tamaulipas,2012,2,1821.68,1780.4,Estatal
+28,Tamaulipas,2012,3,1763.65,1678.75,Estatal
+28,Tamaulipas,2012,4,1742.87,1651.23,Estatal
+28,Tamaulipas,2013,1,1783.58,1691.85,Estatal
+28,Tamaulipas,2013,2,1841.76,1738.56,Estatal
+28,Tamaulipas,2013,3,1743.1,1647.38,Estatal
+28,Tamaulipas,2013,4,1758.09,1654.64,Estatal
+28,Tamaulipas,2014,1,1778.3,1660.15,Estatal
+28,Tamaulipas,2014,2,1706.99,1608.38,Estatal
+28,Tamaulipas,2014,3,1619.04,1510.45,Estatal
+28,Tamaulipas,2014,4,1737.33,1604.86,Estatal
+28,Tamaulipas,2015,1,1706.24,1602.67,Estatal
+28,Tamaulipas,2015,2,1719.48,1606.58,Estatal
+28,Tamaulipas,2015,3,1679.83,1557.85,Estatal
+28,Tamaulipas,2015,4,1705.62,1578.18,Estatal
+28,Tamaulipas,2016,1,1767.35,1609.03,Estatal
+28,Tamaulipas,2016,2,1794.27,1640.26,Estatal
+28,Tamaulipas,2016,3,1870.44,1726.92,Estatal
+28,Tamaulipas,2016,4,1824.81,1672.27,Estatal
+28,Tamaulipas,2017,1,1749.28,1626.88,Estatal
+28,Tamaulipas,2017,2,1788.85,1635.61,Estatal
+28,Tamaulipas,2017,3,1689.53,1495.69,Estatal
+28,Tamaulipas,2017,4,1735.29,1555.94,Estatal
+28,Tamaulipas,2018,1,1832.94,1667.38,Estatal
+28,Tamaulipas,2018,2,1905.11,1739.41,Estatal
+28,Tamaulipas,2018,3,1923.46,1739.59,Estatal
+28,Tamaulipas,2018,4,1842.72,1670.57,Estatal
+28,Tamaulipas,2019,1,1938.17,1741.79,Estatal
+28,Tamaulipas,2019,2,2056.73,1851.27,Estatal
+28,Tamaulipas,2019,3,2004.29,1808.92,Estatal
+28,Tamaulipas,2019,4,1995.92,1809.77,Estatal
+28,Tamaulipas,2020,1,2018.85,1802.21,Estatal
+28,Tamaulipas,2020,3,1918.64,1693.04,Estatal
+28,Tamaulipas,2020,4,1942.06,1717,Estatal
+29,Tlaxcala,2005,1,1273.96,1429.17,Estatal
+29,Tlaxcala,2005,2,1326.8,1435.05,Estatal
+29,Tlaxcala,2005,3,1321.15,1438.71,Estatal
+29,Tlaxcala,2005,4,1338.66,1486.31,Estatal
+29,Tlaxcala,2006,1,1380.88,1515.6,Estatal
+29,Tlaxcala,2006,2,1336.87,1480.67,Estatal
+29,Tlaxcala,2006,3,1354.1,1479.02,Estatal
+29,Tlaxcala,2006,4,1291.37,1372.68,Estatal
+29,Tlaxcala,2007,1,1363.33,1438.5,Estatal
+29,Tlaxcala,2007,2,1356.02,1450.62,Estatal
+29,Tlaxcala,2007,3,1342.25,1436.56,Estatal
+29,Tlaxcala,2007,4,1367.19,1451.39,Estatal
+29,Tlaxcala,2008,1,1337.16,1425.99,Estatal
+29,Tlaxcala,2008,2,1363.14,1433.01,Estatal
+29,Tlaxcala,2008,3,1368.93,1430.29,Estatal
+29,Tlaxcala,2008,4,1231.03,1269.77,Estatal
+29,Tlaxcala,2009,1,1204.09,1239.17,Estatal
+29,Tlaxcala,2009,2,1239.89,1245.92,Estatal
+29,Tlaxcala,2009,3,1168.01,1159.07,Estatal
+29,Tlaxcala,2009,4,1173.33,1177.18,Estatal
+29,Tlaxcala,2010,1,1160.41,1160.41,Estatal
+29,Tlaxcala,2010,2,1192.05,1199.03,Estatal
+29,Tlaxcala,2010,3,1246.56,1269.62,Estatal
+29,Tlaxcala,2010,4,1174.52,1187.09,Estatal
+29,Tlaxcala,2011,1,1178.32,1187.03,Estatal
+29,Tlaxcala,2011,2,1276.16,1281.14,Estatal
+29,Tlaxcala,2011,3,1231.41,1240.63,Estatal
+29,Tlaxcala,2011,4,1257.34,1257.65,Estatal
+29,Tlaxcala,2012,1,1206.23,1192.55,Estatal
+29,Tlaxcala,2012,2,1223.38,1195.98,Estatal
+29,Tlaxcala,2012,3,1322.1,1258,Estatal
+29,Tlaxcala,2012,4,1274.14,1206.89,Estatal
+29,Tlaxcala,2013,1,1263.57,1198.56,Estatal
+29,Tlaxcala,2013,2,1241.69,1172.03,Estatal
+29,Tlaxcala,2013,3,1279.47,1209.6,Estatal
+29,Tlaxcala,2013,4,1236.08,1163.36,Estatal
+29,Tlaxcala,2014,1,1230.01,1149.21,Estatal
+29,Tlaxcala,2014,2,1181.47,1115.02,Estatal
+29,Tlaxcala,2014,3,1212.81,1133.66,Estatal
+29,Tlaxcala,2014,4,1237.39,1143.98,Estatal
+29,Tlaxcala,2015,1,1291.37,1213.3,Estatal
+29,Tlaxcala,2015,2,1293.08,1208.13,Estatal
+29,Tlaxcala,2015,3,1284.35,1191.05,Estatal
+29,Tlaxcala,2015,4,1302.24,1204.8,Estatal
+29,Tlaxcala,2016,1,1323.71,1203.95,Estatal
+29,Tlaxcala,2016,2,1366.98,1249.21,Estatal
+29,Tlaxcala,2016,3,1343.9,1240.45,Estatal
+29,Tlaxcala,2016,4,1333.7,1221.27,Estatal
+29,Tlaxcala,2017,1,1310.6,1219.17,Estatal
+29,Tlaxcala,2017,2,1340.27,1225.2,Estatal
+29,Tlaxcala,2017,3,1388.58,1227.83,Estatal
+29,Tlaxcala,2017,4,1354.8,1214.26,Estatal
+29,Tlaxcala,2018,1,1382.31,1257.49,Estatal
+29,Tlaxcala,2018,2,1394.17,1273.33,Estatal
+29,Tlaxcala,2018,3,1391.25,1258.93,Estatal
+29,Tlaxcala,2018,4,1342.5,1216.73,Estatal
+29,Tlaxcala,2019,1,1336.53,1200.85,Estatal
+29,Tlaxcala,2019,2,1371.35,1234.36,Estatal
+29,Tlaxcala,2019,3,1413.15,1275.54,Estatal
+29,Tlaxcala,2019,4,1450.53,1315.51,Estatal
+29,Tlaxcala,2020,1,1421.82,1268.78,Estatal
+29,Tlaxcala,2020,3,1237.21,1090.39,Estatal
+29,Tlaxcala,2020,4,1307.11,1153.81,Estatal
+30,Veracruz,2005,1,1579.22,1771.24,Estatal
+30,Veracruz,2005,2,1295.05,1401.39,Estatal
+30,Veracruz,2005,3,1293.88,1410.39,Estatal
+30,Veracruz,2005,4,1400.25,1555.93,Estatal
+30,Veracruz,2006,1,1406.61,1544.3,Estatal
+30,Veracruz,2006,2,1465.19,1624.14,Estatal
+30,Veracruz,2006,3,1485.27,1624.18,Estatal
+30,Veracruz,2006,4,1451.03,1542.47,Estatal
+30,Veracruz,2007,1,1431.68,1511.01,Estatal
+30,Veracruz,2007,2,1503.93,1609.79,Estatal
+30,Veracruz,2007,3,1452.19,1555.01,Estatal
+30,Veracruz,2007,4,1483.01,1575.65,Estatal
+30,Veracruz,2008,1,1497.98,1599.79,Estatal
+30,Veracruz,2008,2,1465.91,1542.62,Estatal
+30,Veracruz,2008,3,1479.33,1547.07,Estatal
+30,Veracruz,2008,4,1444.46,1490.52,Estatal
+30,Veracruz,2009,1,1468.3,1512.26,Estatal
+30,Veracruz,2009,2,1525.98,1533.59,Estatal
+30,Veracruz,2009,3,1464.92,1453.85,Estatal
+30,Veracruz,2009,4,1456.39,1461.59,Estatal
+30,Veracruz,2010,1,1503.52,1503.52,Estatal
+30,Veracruz,2010,2,1474.15,1483.74,Estatal
+30,Veracruz,2010,3,1425.07,1453.11,Estatal
+30,Veracruz,2010,4,1418.25,1434.42,Estatal
+30,Veracruz,2011,1,1469.45,1481.73,Estatal
+30,Veracruz,2011,2,1390.82,1397.76,Estatal
+30,Veracruz,2011,3,1417.02,1429.62,Estatal
+30,Veracruz,2011,4,1346.9,1347.74,Estatal
+30,Veracruz,2012,1,1471.54,1455.12,Estatal
+30,Veracruz,2012,2,1507.97,1474.69,Estatal
+30,Veracruz,2012,3,1417.01,1347.95,Estatal
+30,Veracruz,2012,4,1508.09,1428.19,Estatal
+30,Veracruz,2013,1,1415.1,1342.27,Estatal
+30,Veracruz,2013,2,1411.45,1332.16,Estatal
+30,Veracruz,2013,3,1428.38,1350.9,Estatal
+30,Veracruz,2013,4,1460.48,1374.58,Estatal
+30,Veracruz,2014,1,1364.19,1275.14,Estatal
+30,Veracruz,2014,2,1305.73,1234.02,Estatal
+30,Veracruz,2014,3,1259.38,1178.59,Estatal
+30,Veracruz,2014,4,1155.3,1069.08,Estatal
+30,Veracruz,2015,1,1253.48,1177.98,Estatal
+30,Veracruz,2015,2,1282.48,1198.2,Estatal
+30,Veracruz,2015,3,1311.08,1215.8,Estatal
+30,Veracruz,2015,4,1252.22,1158.42,Estatal
+30,Veracruz,2016,1,1268.96,1153.1,Estatal
+30,Veracruz,2016,2,1265.52,1156.27,Estatal
+30,Veracruz,2016,3,1250.9,1154.37,Estatal
+30,Veracruz,2016,4,1204.35,1102.22,Estatal
+30,Veracruz,2017,1,1203.46,1119.77,Estatal
+30,Veracruz,2017,2,1227.26,1121.64,Estatal
+30,Veracruz,2017,3,1191.52,1052.8,Estatal
+30,Veracruz,2017,4,1197.18,1072.5,Estatal
+30,Veracruz,2018,1,1257.59,1144.08,Estatal
+30,Veracruz,2018,2,1272.05,1162.16,Estatal
+30,Veracruz,2018,3,1318.9,1193.95,Estatal
+30,Veracruz,2018,4,1230.03,1114.51,Estatal
+30,Veracruz,2019,1,1268.6,1139.55,Estatal
+30,Veracruz,2019,2,1307.53,1176.92,Estatal
+30,Veracruz,2019,3,1192.47,1076.49,Estatal
+30,Veracruz,2019,4,1268.84,1150.98,Estatal
+30,Veracruz,2020,1,1381.17,1232.01,Estatal
+30,Veracruz,2020,3,1317.32,1159.8,Estatal
+30,Veracruz,2020,4,1329.05,1171.04,Estatal
+31,Yucatán,2005,1,1648.21,1844.74,Estatal
+31,Yucatán,2005,2,1659.54,1792.69,Estatal
+31,Yucatán,2005,3,1655.89,1800.15,Estatal
+31,Yucatán,2005,4,1637.69,1813.09,Estatal
+31,Yucatán,2006,1,1669.04,1828.22,Estatal
+31,Yucatán,2006,2,1666.56,1840.88,Estatal
+31,Yucatán,2006,3,1801.19,1964.53,Estatal
+31,Yucatán,2006,4,1698.02,1804.59,Estatal
+31,Yucatán,2007,1,1769.24,1866.15,Estatal
+31,Yucatán,2007,2,1841.47,1967.45,Estatal
+31,Yucatán,2007,3,1677.91,1793.64,Estatal
+31,Yucatán,2007,4,1777.87,1885.43,Estatal
+31,Yucatán,2008,1,1758.61,1872.62,Estatal
+31,Yucatán,2008,2,1751.82,1839.54,Estatal
+31,Yucatán,2008,3,1730.82,1806.73,Estatal
+31,Yucatán,2008,4,1666.8,1718.39,Estatal
+31,Yucatán,2009,1,1706.7,1755.45,Estatal
+31,Yucatán,2009,2,1667.57,1675.31,Estatal
+31,Yucatán,2009,3,1735.27,1721.82,Estatal
+31,Yucatán,2009,4,1705.33,1710.46,Estatal
+31,Yucatán,2010,1,1679.42,1679.42,Estatal
+31,Yucatán,2010,2,1681.97,1690.53,Estatal
+31,Yucatán,2010,3,1739.77,1770.01,Estatal
+31,Yucatán,2010,4,1742.27,1759.73,Estatal
+31,Yucatán,2011,1,1722.77,1733.78,Estatal
+31,Yucatán,2011,2,1722.48,1727.81,Estatal
+31,Yucatán,2011,3,1717.63,1729.01,Estatal
+31,Yucatán,2011,4,1675.21,1674.64,Estatal
+31,Yucatán,2012,1,1684,1664.66,Estatal
+31,Yucatán,2012,2,1745.9,1706.41,Estatal
+31,Yucatán,2012,3,1789.89,1703.61,Estatal
+31,Yucatán,2012,4,1665.02,1577.42,Estatal
+31,Yucatán,2013,1,1656.74,1571.52,Estatal
+31,Yucatán,2013,2,1831.49,1728.86,Estatal
+31,Yucatán,2013,3,1723.19,1628.63,Estatal
+31,Yucatán,2013,4,1785.46,1680.4,Estatal
+31,Yucatán,2014,1,1673.88,1563,Estatal
+31,Yucatán,2014,2,1594.54,1503.25,Estatal
+31,Yucatán,2014,3,1625.96,1517.51,Estatal
+31,Yucatán,2014,4,1669.87,1542.81,Estatal
+31,Yucatán,2015,1,1657.36,1556.86,Estatal
+31,Yucatán,2015,2,1707.36,1595.24,Estatal
+31,Yucatán,2015,3,1746.54,1619.7,Estatal
+31,Yucatán,2015,4,1669.45,1544.68,Estatal
+31,Yucatán,2016,1,1690.3,1538.76,Estatal
+31,Yucatán,2016,2,1735.05,1586.01,Estatal
+31,Yucatán,2016,3,1767.88,1632.17,Estatal
+31,Yucatán,2016,4,1812.1,1660.42,Estatal
+31,Yucatán,2017,1,1808.45,1681.93,Estatal
+31,Yucatán,2017,2,1801.4,1647.06,Estatal
+31,Yucatán,2017,3,1755.79,1553.99,Estatal
+31,Yucatán,2017,4,1774.31,1590.72,Estatal
+31,Yucatán,2018,1,1727.72,1571.68,Estatal
+31,Yucatán,2018,2,1806.25,1649.38,Estatal
+31,Yucatán,2018,3,1825.85,1651.73,Estatal
+31,Yucatán,2018,4,1903.64,1725.57,Estatal
+31,Yucatán,2019,1,1818.71,1634.29,Estatal
+31,Yucatán,2019,2,1858.82,1673.14,Estatal
+31,Yucatán,2019,3,1931.7,1743.46,Estatal
+31,Yucatán,2019,4,1912.86,1734.57,Estatal
+31,Yucatán,2020,1,1962.59,1751.82,Estatal
+31,Yucatán,2020,3,1884.29,1661.69,Estatal
+31,Yucatán,2020,4,1929.9,1704.57,Estatal
+32,Zacatecas,2005,1,1206.73,1353.37,Estatal
+32,Zacatecas,2005,2,1267.13,1370.87,Estatal
+32,Zacatecas,2005,3,1285.16,1400.22,Estatal
+32,Zacatecas,2005,4,1316.95,1463.46,Estatal
+32,Zacatecas,2006,1,1274.54,1399.1,Estatal
+32,Zacatecas,2006,2,1391.39,1542.28,Estatal
+32,Zacatecas,2006,3,1386.63,1515.63,Estatal
+32,Zacatecas,2006,4,1437.51,1528.11,Estatal
+32,Zacatecas,2007,1,1401,1478.51,Estatal
+32,Zacatecas,2007,2,1413.49,1513.01,Estatal
+32,Zacatecas,2007,3,1442.33,1545.13,Estatal
+32,Zacatecas,2007,4,1392.62,1479.9,Estatal
+32,Zacatecas,2008,1,1271.52,1357.15,Estatal
+32,Zacatecas,2008,2,1350.94,1421.51,Estatal
+32,Zacatecas,2008,3,1279.93,1338.06,Estatal
+32,Zacatecas,2008,4,1248.98,1288.74,Estatal
+32,Zacatecas,2009,1,1194.99,1230.47,Estatal
+32,Zacatecas,2009,2,1178.5,1184.42,Estatal
+32,Zacatecas,2009,3,1201.02,1191.9,Estatal
+32,Zacatecas,2009,4,1224.92,1229.23,Estatal
+32,Zacatecas,2010,1,1178.93,1178.93,Estatal
+32,Zacatecas,2010,2,1247.92,1255.6,Estatal
+32,Zacatecas,2010,3,1347.77,1374.75,Estatal
+32,Zacatecas,2010,4,1287.09,1301.91,Estatal
+32,Zacatecas,2011,1,1246.63,1256.9,Estatal
+32,Zacatecas,2011,2,1214.54,1220.59,Estatal
+32,Zacatecas,2011,3,1254.42,1265.35,Estatal
+32,Zacatecas,2011,4,1209.91,1210.74,Estatal
+32,Zacatecas,2012,1,1248.96,1235.09,Estatal
+32,Zacatecas,2012,2,1266.19,1238.28,Estatal
+32,Zacatecas,2012,3,1252.46,1191.36,Estatal
+32,Zacatecas,2012,4,1233.76,1168.36,Estatal
+32,Zacatecas,2013,1,1249.27,1184.99,Estatal
+32,Zacatecas,2013,2,1163.67,1098.31,Estatal
+32,Zacatecas,2013,3,1205.34,1139.82,Estatal
+32,Zacatecas,2013,4,1195.13,1124.84,Estatal
+32,Zacatecas,2014,1,1129.86,1056.09,Estatal
+32,Zacatecas,2014,2,1168.51,1104.52,Estatal
+32,Zacatecas,2014,3,1133.66,1060.47,Estatal
+32,Zacatecas,2014,4,1110.03,1026.94,Estatal
+32,Zacatecas,2015,1,1131.48,1063.23,Estatal
+32,Zacatecas,2015,2,1218.57,1138.5,Estatal
+32,Zacatecas,2015,3,1238.45,1148.45,Estatal
+32,Zacatecas,2015,4,1248.27,1154.79,Estatal
+32,Zacatecas,2016,1,1222.17,1111.16,Estatal
+32,Zacatecas,2016,2,1319.83,1205.91,Estatal
+32,Zacatecas,2016,3,1314.77,1213.28,Estatal
+32,Zacatecas,2016,4,1273.04,1165.15,Estatal
+32,Zacatecas,2017,1,1259.02,1171.48,Estatal
+32,Zacatecas,2017,2,1378.48,1259.86,Estatal
+32,Zacatecas,2017,3,1306.54,1154.42,Estatal
+32,Zacatecas,2017,4,1306.52,1170.5,Estatal
+32,Zacatecas,2018,1,1238.57,1126.77,Estatal
+32,Zacatecas,2018,2,1295.36,1183.57,Estatal
+32,Zacatecas,2018,3,1338.46,1211.78,Estatal
+32,Zacatecas,2018,4,1312.14,1188.88,Estatal
+32,Zacatecas,2019,1,1330.32,1195.06,Estatal
+32,Zacatecas,2019,2,1394.44,1255.16,Estatal
+32,Zacatecas,2019,3,1353.36,1221.73,Estatal
+32,Zacatecas,2019,4,1361.76,1235.27,Estatal
+32,Zacatecas,2020,1,1385.6,1235.99,Estatal
+32,Zacatecas,2020,3,1448.61,1275.28,Estatal
+32,Zacatecas,2020,4,1485.27,1309.83,Estatal
