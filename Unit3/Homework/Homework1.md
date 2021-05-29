@@ -17,11 +17,15 @@ Suppose Z is the point that needs to be predicted. First, the point K closest to
 A popular choice is the Euclidean distance, but there are also other measures that may be more suitable for a given environment and include the Mahattan and Minkowski distance.
 
 
+###Explain the equating of the Eclidean distance in your own words?
 
-
-
+- the concept of Euclidean distance tells us that it is the space or separation that exists between two points.
+<br>
+- this can be represented as the length of a vector AB from points A, B
+![DistanciaE Picture](DistanciaE.jpg "Distance Image")
 
 
 
 References:
 https://aprendeia.com/k-vecinos-mas-cercanos-teoria-machine-learning/ 
+https://www.lifeder.com/distancia-euclidiana/
