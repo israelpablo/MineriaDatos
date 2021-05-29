@@ -19,13 +19,14 @@ A popular choice is the Euclidean distance, but there are also other measures th
 
 ###Explain the equating of the Eclidean distance in your own words?
 
-- the concept of Euclidean distance tells us that it is the space or separation that exists between two points.
-<br>
-- this can be represented as the length of a vector AB from points A, B
-![DistanciaE Picture](DistanciaE.jpg "Distance Image")
+the concept of Euclidean distance tells us that it is the space or separation that exists between two points.
+this can be represented as the length of a vector AB from points A, B.
+which is obtained by using a formula and with this we can determine which points are the closest to the point we want to classify
+![DistanciaE](DistanciaE.jpg "Distance Image")
 
 
 
 References:
 https://aprendeia.com/k-vecinos-mas-cercanos-teoria-machine-learning/ 
+<br>
 https://www.lifeder.com/distancia-euclidiana/
