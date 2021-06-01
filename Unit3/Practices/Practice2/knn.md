@@ -144,5 +144,5 @@ points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 
 
 when observing the two charts on the pictures, we can see a difference, because on training have more point that the test and on the test have more points reds on the seccion green and the training have mores point greend on the seccion red
-![knntraining-test](training-test.png)
+![knntraining-test](Training-test.PNG)
 
