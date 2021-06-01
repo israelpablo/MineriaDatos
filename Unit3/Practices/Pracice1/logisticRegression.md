@@ -58,7 +58,6 @@ What interests us in the confusion matrix is the main diagonal of the matrix in 
      0  1
   0 57  7
   1 10 26
-  
 ```
 We load our ggplot library to display our graphs.
 We create a graph from the training set, evaluating EstimatedSalary on the x-axis and Purchased on the y-axis.
@@ -71,10 +70,31 @@ ggplot(training_set, aes(x=EstimatedSalary, y=Purchased)) + geom_point() +
 This first graph shows an almost linear behavior because the growth of the estimated salary is proportional to purchased.
 ![TrainingSet-1](TrainingESP.png)
 
-
+----
 ``` r
 ggplot(training_set, aes(x=Age, y=Purchased)) + geom_point() + 
   stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
 ```
 In this second graph we evaluate the behavior of Purchased with respect to Age. We can see that it is a constant graph because the higher the age the higher the Purchased.
-![TrainingSet-1](TrainingAP.png)
+![TrainingSet-2](TrainingAP.png)
+
+---
+
+``` r
+ggplot(test_set, aes(x=EstimatedSalary, y=Purchased)) + geom_point() + 
+  stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
+```
+In this third graph we evaluate the behavior of the EstimatedSalary Testset with respect to the Purchase. 
+We observe that, as in TrainingSet, they have a linear behavior.
+![TestSet-1](TestESP.png)
+
+---
+
+``` r
+ggplot(test_set, aes(x=Age, y=Purchased)) + geom_point() + 
+  stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
+```
+In this last graph we evaluate the behavior of the Age Testset with respect to the Purchase. 
+We observe that, as in TrainingSet, they have a normal behavior.
+
+![TestSet-2](TestAP.png)
