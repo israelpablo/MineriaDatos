@@ -87,7 +87,7 @@ points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 in this part coloring each section by color in the graph it is shown as it is separated by the colors green and red
 ``` r
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
-
+```
 
 ![training](Training.png)
 
