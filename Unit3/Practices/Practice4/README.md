@@ -1,6 +1,6 @@
-## Analysis of data visualization in the model of the knn
+## Analysis of data visualization in the model of Random Forest
 
- K-Nearest Neighbors (K-NN)
+ Random Forest
 ``` r
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
