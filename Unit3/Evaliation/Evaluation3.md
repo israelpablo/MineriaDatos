@@ -145,3 +145,8 @@ In the test part, the opposite case is observed since in the green area there ar
 This means that the trend in both cases are different or go in the opposite direction.
 
 ![naiveBayestrainingtest](Training-test.PNG)
+
+# Naive bayes
+The Naïve-Bayes (NBC) classifier algorithm is a simple probabilistic classifier with a strong independence assumption. Although the attribute independence assumption is generally a poor assumption and is often violated for true data sets. It often provides better classification precision on real-time data sets than any other classifier. A small amount of training data is also required. The Naïve-Bayes classifier learns from the training data and then predicts the class of the test instance with the highest posterior probability.
+
+A Naive Bayes classifier assumes that the presence or absence of a particular characteristic is not related to the presence or absence of any other characteristic, given the variable class. For example, a fruit can be considered an apple if it is red, round, and about 7 cm in diameter. A Naive Bayes classifier considers that each of these characteristics contributes independently to the probability that this fruit is an apple, regardless of the presence or absence of the other characteristics.
