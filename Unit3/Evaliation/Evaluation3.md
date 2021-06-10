@@ -89,7 +89,7 @@ in this part coloring each section by color in the graph it is shown as it is se
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ```
 
-![naiveBayes](training.png)
+![naiveBayes](Training.PNG)
 
 #Visualising the Test set results
 The library is loaded
@@ -135,7 +135,7 @@ in this part coloring each section by color in the graph it is shown as it is se
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ```
 
-![naiveBayestest](test.png)
+![naiveBayestest](test.PNG)
 
 
 
@@ -144,4 +144,4 @@ we can observe that in training 'the amount of red points in the green area are 
 In the test part, the opposite case is observed since in the green area there are more red points than green points in the red area.
 This means that the trend in both cases are different or go in the opposite direction.
 
-![naiveBayestrainingtest](test.png)
+![naiveBayestrainingtest](Training-test.PNG)
