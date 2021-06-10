@@ -91,7 +91,7 @@ points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 
 ![naiveBayes](Training.PNG)
 
-#Visualising the Test set results
+# Visualising the Test set results
 The library is loaded
 ```r
 library(ElemStatLearn)
